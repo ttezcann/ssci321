@@ -20,16 +20,16 @@ moc_pages:
 
 <div class="grid" markdown>
 
-:simple-googledrive:   [Office hours](guidelines/office-hours.md)
+:lucide-calendar-clock:   [Office hours](guidelines/office-hours.md)
 { .card }
 
-:simple-rstudioide:   [Syllabus](guidelines/syllabus.md)
+:lucide-file-text:   [Syllabus](guidelines/syllabus.md)
 { .card }
 
-:lucide-user-pen:   [Structure and due dates](guidelines/structure-and-due-dates.md)
+:lucide-square-chart-gantt:   [Structure and due dates](guidelines/structure-and-due-dates.md)
 { .card }
 
-:lucide-send:   [Assignment submission](guidelines/assignment-submission.md)
+:lucide-file-up:   [Assignment submission](guidelines/assignment-submission.md)
 { .card }
 
 :lucide-pencil-line:   [Word count and writing](guidelines/word-count-and-writing.md)

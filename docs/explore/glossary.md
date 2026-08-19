@@ -156,6 +156,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="direction of correlation" role="button" tabindex="0">direction of correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="due dates" role="button" tabindex="0">due dates</span></strong> — *1 page*  
+[Structure and due dates](resources/guidelines/structure-and-due-dates/)
+
 <strong><span class="wikilink" data-keyword="dummy variable" role="button" tabindex="0">dummy variable</span></strong> — *3 pages*  
 [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
@@ -577,6 +580,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="survey terminology" role="button" tabindex="0">survey terminology</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong> — *1 page*  
+[Syllabus](resources/guidelines/syllabus/)
+
 <strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
@@ -849,6 +855,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong> — *2 mentions · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
+<strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong> — *2 mentions · 1 page*  
+[Assignment submission](resources/guidelines/assignment-submission/)
+
 <strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong> — *2 mentions · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
@@ -972,6 +981,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="direction of correlation" role="button" tabindex="0">direction of correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="due dates" role="button" tabindex="0">due dates</span></strong> — *1 mention · 1 page*  
+[Structure and due dates](resources/guidelines/structure-and-due-dates/)
+
 <strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong> — *1 mention · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
@@ -1012,9 +1024,6 @@ Click any keyword to see every occurrence with full context.
 [Assignment submission](resources/guidelines/assignment-submission/)
 
 <strong><span class="wikilink" data-keyword="how to rename a folder in google drive" role="button" tabindex="0">how to rename a folder in google drive</span></strong> — *1 mention · 1 page*  
-[Assignment submission](resources/guidelines/assignment-submission/)
-
-<strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong> — *1 mention · 1 page*  
 [Assignment submission](resources/guidelines/assignment-submission/)
 
 <strong><span class="wikilink" data-keyword="how to work with codes" role="button" tabindex="0">how to work with codes</span></strong> — *1 mention · 1 page*  
@@ -1206,6 +1215,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="survey terminology" role="button" tabindex="0">survey terminology</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong> — *1 mention · 1 page*  
+[Syllabus](resources/guidelines/syllabus/)
+
 <strong><span class="wikilink" data-keyword="terminologies" role="button" tabindex="0">terminologies</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
@@ -1287,6 +1299,18 @@ Click any keyword to see every occurrence with full context.
 > 1 new
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scheduling an in-person meeting" role="button" tabindex="0">scheduling an in-person meeting</span></strong></span></div>
+
+## Syllabus
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong></span></div>
+
+## Structure and due dates
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="due dates" role="button" tabindex="0">due dates</span></strong></span></div>
 
 ## Assignment submission
 

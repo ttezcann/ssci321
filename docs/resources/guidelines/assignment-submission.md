@@ -5,7 +5,11 @@ tags:
   - Resources
 ---
 
-# [[How to submit an assignment|ref]]
+# How to submit an assignment
+
+## [[How to submit an assignment|ref]] Video instructions
+- 
+## [[How to submit an assignment|ref]] Textual instructions
 1. Make sure you are signed in and see your CSUMB Google profile on the top right of the assignment file:
     - ![Google profile](../../assets/attachments/resources/guidelines/assignment-submission/google-profile.png)
 2. Open the assignment file. Click “File” ➜ “Make a copy.”
