@@ -68,7 +68,7 @@ icon: lucide/house
 
     ---
 
-   Review key concepts used across the course.
+    Review key concepts used across the course.
 
 -   :lucide-share-2:{ .lg .middle } __[Graphs](resources/site-guide/graphs.md)__
 
