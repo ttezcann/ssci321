@@ -6,11 +6,8 @@ knotis_content:
 icon: lucide/house
 ---
 
-![SSCI321 logo.](assets/attachments/0-logo/default.png){width="400"}
-
-
-# Welcome!
-- I'm your instructor. Tolga Tezcan, PhD
+# SSCI 321 - Survey Research in the Social Sciences!
+- Welcome! I'm your instructor. Tolga Tezcan, PhD.
     - **Email**: ttezcan@csumb.edu
 
 # Shortcuts
@@ -21,7 +18,7 @@ icon: lucide/house
 
     ---
 
-    Review course policies and expectations.
+    Review course policies.
 
 -   :lucide-calendar-clock:{ .lg .middle } __[Office hours](resources/guidelines/office-hours.md)__
 
