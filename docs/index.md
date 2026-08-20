@@ -21,26 +21,25 @@ icon: lucide/house
 
     ---
 
-    Written as nested bullets, and nesting becomes graph edges and pane context.
+    Review course policies and expectations.
 
 -   :lucide-calendar-clock:{ .lg .middle } __[Office hours](resources/guidelines/office-hours.md)__
 
     ---
 
-    The double-bracket, `[[concept]]` syntax that names a concept and links it everywhere it appears.
+    Find office-hour times, schedule a meeting, and ways to get help.
 
 -   :lucide-file-up:{ .lg .middle } __[Assignment submission](resources/guidelines/assignment-submission.md)__
 
     ---
 
-    A side panel that shows every place a concept appears, without leaving
-    the page.
+    Learn how to submit assignments and check submission instructions.
 
 -   :lucide-square-chart-gantt:{ .lg .middle } __[Structure and due dates](resources/guidelines/structure-and-due-dates.md)__
     
     ---
 
-    Site, page, and concept graphs built from the course outline.
+    See the weekly course structure and due dates.
 </div>
 
 # Site guide: Learn how to use this site
@@ -51,38 +50,36 @@ icon: lucide/house
 
     ---
 
-    Concept-aware search that ranks concepts and tagged content.
+    Find concepts, pages, and tagged examples quickly.
 
 -   :lucide-panel-right:{ .lg .middle } __[Pane](resources/site-guide/pane.md)__
 
     ---
 
-    A side panel that shows every place a concept appears, without leaving
-    the page.
+    Open concept details without leaving the page.
 
 -   :lucide-hash:{ .lg .middle } __[Content tags](resources/site-guide/content-tags.md)__
 
     ---
 
-    Labels a section or block like `#code`, `#output`, `#interpretation`, and groups matching sections site-wide.
+    Browse code, output, and interpretation examples.
 
 -   :lucide-arrow-down-a-z:{ .lg .middle } __[Glossary](resources/site-guide/glossary.md)__
 
     ---
 
-    A course glossary generated from the concepts already written in the
-    lessons.
+   Review key concepts used across the course.
 
 -   :lucide-share-2:{ .lg .middle } __[Graphs](resources/site-guide/graphs.md)__
 
     ---
 
-    Site, page, and concept graphs built from the course outline.
+    Explore site, page, and concept graphs.
 
 -   :lucide-book-marked:{ .lg .middle } __[Variables in GSS](resources/variables-in-gss.md)__
 
     ---
 
-    Look up GSS variable names, labels, question wording, and response options..
+    Look up GSS variable names, labels, question wording, and response options.
 
 </div>
