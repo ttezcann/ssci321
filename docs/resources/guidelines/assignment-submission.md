@@ -8,7 +8,7 @@ tags:
 # How to submit an assignment
 
 ## [[How to submit an assignment|ref]] Video instructions
-- 
+-  <iframe src="https://drive.google.com/file/d/12JpZamnkViWNrmJUIUcMts6pKzuT8FsJ/preview"></iframe>
 ## [[How to submit an assignment|ref]] Textual instructions
 1. Make sure you are signed in and see your CSUMB Google profile on the top right of the assignment file:
     - ![Google profile](../../assets/attachments/resources/guidelines/assignment-submission/google-profile.png)
