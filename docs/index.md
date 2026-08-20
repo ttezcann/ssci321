@@ -6,7 +6,7 @@ knotis_content:
 icon: lucide/house
 ---
 
-# SSCI 321 - Survey Research in the Social Sciences!
+# SSCI 321 - Survey Research in the Social Sciences
 - Welcome! I'm your instructor. Tolga Tezcan, PhD.
     - **Email**: ttezcan@csumb.edu
 
