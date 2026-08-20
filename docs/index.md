@@ -50,7 +50,7 @@ icon: lucide/house
 
     ---
 
-    Find concepts, pages, and tagged examples quickly.
+    Find concepts, pages, and tagged sections quickly.
 
 -   :lucide-panel-right:{ .lg .middle } __[Pane](resources/site-guide/pane.md)__
 
