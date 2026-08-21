@@ -23,11 +23,11 @@ tags:
 2. Learn different research methods
 3. Learn sampling
 4. Learn the steps of empirical social research
-    1. Topic,
+    1. Research topic,
     2. Literature review,
     3. Research question,
     4. Hypotheses,
-    5. Finding/collecting data, and
+    5. Data
     6. Data analysis
 
 
@@ -117,9 +117,12 @@ tags:
     1. Collecting new evidence, or locating evidence that already exists
 6. [[Data analysis]]
     1. Reducing and interpreting the evidence so you can justify a conclusion
-
-- These steps look linear.
-    - In practice they loop. Reading can change the question. Fieldwork can change the coding. Analysis can send you back to the literature.
+    - ```mermaid
+    flowchart LR
+    A["Research topic"] --> B["Literature review"] --> C["Research question"] --> D["Hypotheses"] --> E["Data"] --> F["Data analysis"]
+    ```
+        - These steps look linear.
+            - In practice they loop. Reading the literature can change the research question. Fieldwork can change the coding. Analysis can send you back to the literature.
 
 <!-- slide-break -->
 ## How is a [[research topic]] formulated?
@@ -156,7 +159,7 @@ tags:
 - Poor or missing research questions produce unfocused data collection.
 
 <!-- slide-break -->
-## [[Research question]] and [[literature review]]
+### [[Research question]] and [[literature review]]
 - The research question gives direction and structure to the literature review.
 - Formulating a question and reading the literature depend on each other.
 - Early reading suggests a question. Further reading revises it.
@@ -164,10 +167,10 @@ tags:
     - be specific enough to guide data collection,
     - be answerable with evidence you can actually get,
     - connect to concepts already used in the literature.
-- Research question: To what extent do ethnic identification, contact level with natives, and discrimination influence return migration?
+- Research question: *To what extent do ethnic identification, contact level with natives, and discrimination influence return migration?*
 
 <!-- slide-break -->
-## [[Research topic]] vs. [[research question]]
+### [[Research topic]] vs. [[research question]]
 - A research topic is what the paper is about.
     - Health disparity, racial inequality, and gender are topics.
         - Research topic: Gender inequality in the workplace
@@ -185,17 +188,27 @@ tags:
         - Research question: To what extent do ethnic identification, contact level with natives, and discrimination influence return migration?
 
 <!-- slide-break -->
-## [[Finding data]]
+## [[Data]]
 - Data are the empirical material that let you answer the question.
 - Two broad routes:
-    - [[Primary data]]: you collect it yourself for this study.
+    - [[Primary data]]: you collect it yourself for your study.
     - [[Secondary data]]: someone else already collected it, and you analyze it.
 - The data must actually contain the concepts in your research question.
     - If you want to study belonging and campus jobs, the dataset or interviews must include belonging and campus jobs.
     - People’s answers, field notes, documents, and existing surveys can all be data.
 
 <!-- slide-break -->
-## Finding data
+### Data: [[Primary data]]
+- You design the questions or observations because no existing source measures what you need.
+- Quantitative version: a survey of CSUMB students with items you wrote.
+- Qualitative version: interviews, focus groups, or observation with a smaller set of people.
+- Collecting your own data gives control, and it creates obligations:
+    - you must recruit people,
+    - you must keep the procedure consistent,
+    - you must handle consent, privacy, and the mess of real fieldwork.
+- The research question still comes first. Do not collect first and invent the question later.
+<!-- slide-break -->
+### Data: [[Secondary data]]
 - Quantitative data usually begin as answers that can be turned into numbers.
 - Common sources:
     - existing social surveys and official statistics,
@@ -210,17 +223,6 @@ tags:
     - missing answers and a mismatched list of people can distort the picture.
 
 <!-- slide-break -->
-## Finding data - Collecting your own
-- You design the questions or observations because no existing source measures what you need.
-- Quantitative version: a survey of CSUMB students with items you wrote.
-- Qualitative version: interviews, focus groups, or observation with a smaller set of people.
-- Collecting your own data gives control, and it creates obligations:
-    - you must recruit people,
-    - you must keep the procedure consistent,
-    - you must handle consent, privacy, and the mess of real fieldwork.
-- The research question still comes first. Do not collect first and invent the question later.
-
-<!-- slide-break -->
 ## [[Data analysis]]
 - Analysis is the process of reducing a large pile of evidence until a justified conclusion is possible.
     - Raw interviews, questionnaires, or documents do not speak for themselves.
@@ -229,7 +231,7 @@ tags:
             - In both cases, analysis is a claim about what the evidence shows, tied back to the research question.
 
 <!-- slide-break -->
-### Data analysis ([[Quantitative research]])
+### Data analysis: [[Quantitative research]]
 - Start by checking the data: missing answers, impossible values, and whether the measures match the concepts.
 - Then describe the sample, and then test the relationships in the hypotheses.
 - Example: a survey of immigrants asks about ethnic identification, contact with natives, discrimination, and intention to return.
@@ -238,7 +240,7 @@ tags:
 - More advanced models can treat several relationships at once, but the logic stays the same: measured concepts, hypothesized links, and a test against the data.
 
 <!-- slide-break -->
-### Data analysis ([[Qualitative research]])
+### Data analysis: [[Qualitative research]]
 - Qualitative data arrive as transcripts, field notes, and documents. One interview can produce dozens of pages.
 - Analysis usually begins while data are still being collected, so later questions can follow what is emerging.
 - Typical steps:

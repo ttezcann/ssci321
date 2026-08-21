@@ -38,6 +38,9 @@ Click any keyword to see every occurrence with full context.
 
 ## B
 
+<strong><span class="wikilink" data-keyword="bad variables, good variables" role="button" tabindex="0">bad variables, good variables</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="bar graph" role="button" tabindex="0">bar graph</span></strong> — *1 page*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
@@ -95,13 +98,13 @@ Click any keyword to see every occurrence with full context.
 [Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="content of the variable" role="button" tabindex="0">content of the variable</span></strong> — *1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong> — *1 page*  
 [Content tags](resources/site-guide/content-tags/)
 
 <strong><span class="wikilink" data-keyword="contextual variables" role="button" tabindex="0">contextual variables</span></strong> — *1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong> — *5 pages*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -123,8 +126,8 @@ Click any keyword to see every occurrence with full context.
 
 ## D
 
-<strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong> — *1 page*  
-[02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+<strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong> — *1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
@@ -139,7 +142,7 @@ Click any keyword to see every occurrence with full context.
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="demographic variables" role="button" tabindex="0">demographic variables</span></strong> — *1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="descriptive modeling" role="button" tabindex="0">descriptive modeling</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -164,6 +167,9 @@ Click any keyword to see every occurrence with full context.
 
 ## E
 
+<strong><span class="wikilink" data-keyword="empirical social research" role="button" tabindex="0">empirical social research</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong> — *1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
@@ -172,8 +178,8 @@ Click any keyword to see every occurrence with full context.
 
 ## F
 
-<strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *7 pages*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
+<strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *8 pages*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
 <strong><span class="wikilink" data-keyword="files tab" role="button" tabindex="0">files tab</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -191,7 +197,7 @@ Click any keyword to see every occurrence with full context.
 [04. Recoding variables](modules/04.-recoding-variables/)
 
 <strong><span class="wikilink" data-keyword="functions of the variable" role="button" tabindex="0">functions of the variable</span></strong> — *1 page*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 ## G
 
@@ -239,8 +245,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="how to work with codes" role="button" tabindex="0">how to work with codes</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
-<strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 ## I
 
@@ -275,8 +281,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="linearity" role="button" tabindex="0">linearity</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
-<strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="logistic regression" role="button" tabindex="0">logistic regression</span></strong> — *3 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
@@ -327,6 +333,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="normal distribution" role="button" tabindex="0">normal distribution</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
+<strong><span class="wikilink" data-keyword="normative social research" role="button" tabindex="0">normative social research</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 ## O
 
 <strong><span class="wikilink" data-keyword="odds ratio" role="button" tabindex="0">odds ratio</span></strong> — *1 page*  
@@ -344,8 +353,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="ordinal" role="button" tabindex="0">ordinal</span></strong> — *2 pages*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/)
 
-<strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong> — *7 pages*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
+<strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong> — *8 pages*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
 <strong><span class="wikilink" data-keyword="outline view" role="button" tabindex="0">outline view</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -370,6 +379,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="performance diagnostic" role="button" tabindex="0">performance diagnostic</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
+<strong><span class="wikilink" data-keyword="phrasing variables" role="button" tabindex="0">phrasing variables</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="plots tab" role="button" tabindex="0">plots tab</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -382,19 +394,19 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="predictive modeling" role="button" tabindex="0">predictive modeling</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
-<strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 ## Q
 
-<strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
-<strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="question wording" role="button" tabindex="0">question wording</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -517,8 +529,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong> — *1 page*  
 [Search](resources/site-guide/search/)
 
-<strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="significance of correlation" role="button" tabindex="0">significance of correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -532,8 +544,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong> — *1 page*  
 [Graphs](resources/site-guide/graphs/)
 
-<strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
+<strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong> — *1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
@@ -594,6 +606,18 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="terminologies" role="button" tabindex="0">terminologies</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="the three-step test" role="button" tabindex="0">the three-step test</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “higher or lower” test" role="button" tabindex="0">the “higher or lower” test</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “is there a causality” test" role="button" tabindex="0">the “is there a causality” test</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="tjur r-squared" role="button" tabindex="0">tjur r-squared</span></strong> — *2 pages*  
 [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
@@ -635,13 +659,16 @@ Click any keyword to see every occurrence with full context.
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong> — *2 pages*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
 <strong><span class="wikilink" data-keyword="variable label" role="button" tabindex="0">variable label</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="variable name" role="button" tabindex="0">variable name</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="variables and data types" role="button" tabindex="0">variables and data types</span></strong> — *1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="viewer tab" role="button" tabindex="0">viewer tab</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -672,11 +699,11 @@ Click any keyword to see every occurrence with full context.
 
 ## Most mentioned concepts
 
-<strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong> — *25 mentions · 7 pages*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
+<strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong> — *25 mentions · 8 pages*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
-<strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *24 mentions · 7 pages*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
+<strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *24 mentions · 8 pages*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
 <strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong> — *22 mentions · 4 pages*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
@@ -741,8 +768,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="homoscedasticity" role="button" tabindex="0">homoscedasticity</span></strong> — *6 mentions · 1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
-<strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong> — *6 mentions · 2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+<strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong> — *6 mentions · 2 pages*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
 <strong><span class="wikilink" data-keyword="adjusted r-squared" role="button" tabindex="0">adjusted r-squared</span></strong> — *5 mentions · 2 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/)
@@ -756,6 +783,21 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="histogram graph" role="button" tabindex="0">histogram graph</span></strong> — *5 mentions · 1 page*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
+<strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong> — *5 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong> — *5 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *5 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong> — *5 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong> — *5 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="standardized coefficient" role="button" tabindex="0">standardized coefficient</span></strong> — *5 mentions · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -767,9 +809,6 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="correlation table matrix" role="button" tabindex="0">correlation table matrix</span></strong> — *4 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
-
-<strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong> — *4 mentions · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong> — *4 mentions · 2 pages*  
 [Pane](resources/site-guide/pane/) · [Graphs](resources/site-guide/graphs/)
@@ -792,6 +831,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="data creation" role="button" tabindex="0">data creation</span></strong> — *3 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
+<strong><span class="wikilink" data-keyword="empirical social research" role="button" tabindex="0">empirical social research</span></strong> — *3 mentions · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="explanatory modeling" role="button" tabindex="0">explanatory modeling</span></strong> — *3 mentions · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -806,6 +848,12 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="ordinal" role="button" tabindex="0">ordinal</span></strong> — *3 mentions · 2 pages*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/)
+
+<strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong> — *3 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong> — *3 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="recoding" role="button" tabindex="0">recoding</span></strong> — *3 mentions · 3 pages*  
 [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -846,20 +894,17 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="curvilinear relationship" role="button" tabindex="0">curvilinear relationship</span></strong> — *2 mentions · 1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
+<strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong> — *2 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
 <strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong> — *2 mentions · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="descriptive modeling" role="button" tabindex="0">descriptive modeling</span></strong> — *2 mentions · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
-<strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong> — *2 mentions · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
-
 <strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong> — *2 mentions · 1 page*  
 [Assignment submission](resources/guidelines/assignment-submission/)
-
-<strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong> — *2 mentions · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="is my p-value less than 0.05?" role="button" tabindex="0">is my p-value less than 0.05?</span></strong> — *2 mentions · 2 pages*  
 [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/)
@@ -876,6 +921,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="nominal" role="button" tabindex="0">nominal</span></strong> — *2 mentions · 1 page*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
+<strong><span class="wikilink" data-keyword="normative social research" role="button" tabindex="0">normative social research</span></strong> — *2 mentions · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong> — *2 mentions · 1 page*  
 [Graphs](resources/site-guide/graphs/)
 
@@ -887,12 +935,6 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
-
-<strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong> — *2 mentions · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
-
-<strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong> — *2 mentions · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="recoding model codes" role="button" tabindex="0">recoding model codes</span></strong> — *2 mentions · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -906,14 +948,14 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *2 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
+<strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *2 mentions · 2 pages*  
+[Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="standard error" role="button" tabindex="0">standard error</span></strong> — *2 mentions · 2 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/)
 
 <strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *2 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
-
-<strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong> — *2 mentions · 2 pages*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/)
 
 <strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong> — *2 mentions · 2 pages*  
 [RStudio install](resources/getting-ready/rstudio-account-and-packages/) · [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -923,6 +965,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="appointment" role="button" tabindex="0">appointment</span></strong> — *1 mention · 1 page*  
 [Office hours](resources/guidelines/office-hours/)
+
+<strong><span class="wikilink" data-keyword="bad variables, good variables" role="button" tabindex="0">bad variables, good variables</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="bivariate correlation" role="button" tabindex="0">bivariate correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -949,19 +994,16 @@ Click any keyword to see every occurrence with full context.
 [Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="content of the variable" role="button" tabindex="0">content of the variable</span></strong> — *1 mention · 1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong> — *1 mention · 1 page*  
 [Content tags](resources/site-guide/content-tags/)
 
 <strong><span class="wikilink" data-keyword="contextual variables" role="button" tabindex="0">contextual variables</span></strong> — *1 mention · 1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="copy the code" role="button" tabindex="0">copy the code</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
-
-<strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong> — *1 mention · 1 page*  
-[02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="data terminology" role="button" tabindex="0">data terminology</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -970,7 +1012,7 @@ Click any keyword to see every occurrence with full context.
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="demographic variables" role="button" tabindex="0">demographic variables</span></strong> — *1 mention · 1 page*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="descriptive table for index variable" role="button" tabindex="0">descriptive table for index variable</span></strong> — *1 mention · 1 page*  
 [05. Computing variables](modules/05.-computing-variables/)
@@ -993,8 +1035,11 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="find this working code in the r script file" role="button" tabindex="0">find this working code in the r script file</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong> — *1 mention · 1 page*  
+[Social research: why and how](modules/social-research-why-and-how/)
+
 <strong><span class="wikilink" data-keyword="functions of the variable" role="button" tabindex="0">functions of the variable</span></strong> — *1 mention · 1 page*  
-[06. Chi-square analysis](modules/06.-chi-square-analysis/)
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong> — *1 mention · 1 page*  
 [Glossary](resources/site-guide/glossary/)
@@ -1086,11 +1131,11 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="pasting variable names" role="button" tabindex="0">pasting variable names</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="phrasing variables" role="button" tabindex="0">phrasing variables</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="plots tab" role="button" tabindex="0">plots tab</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
-
-<strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *1 mention · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="question wording" role="button" tabindex="0">question wording</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -1176,14 +1221,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong> — *1 mention · 1 page*  
 [Search](resources/site-guide/search/)
 
-<strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong> — *1 mention · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
-
 <strong><span class="wikilink" data-keyword="significance of correlation" role="button" tabindex="0">significance of correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
-
-<strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *1 mention · 1 page*  
-[Social research: why and how](modules/social-research-why-and-how/)
 
 <strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong> — *1 mention · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
@@ -1221,6 +1260,18 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="terminologies" role="button" tabindex="0">terminologies</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="the three-step test" role="button" tabindex="0">the three-step test</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “higher or lower” test" role="button" tabindex="0">the “higher or lower” test</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “is there a causality” test" role="button" tabindex="0">the “is there a causality” test</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
 <strong><span class="wikilink" data-keyword="types of regression modeling based on modeling type" role="button" tabindex="0">types of regression modeling based on modeling type</span></strong> — *1 mention · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -1256,6 +1307,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="variable name" role="button" tabindex="0">variable name</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="variables and data types" role="button" tabindex="0">variables and data types</span></strong> — *1 mention · 1 page*  
+[The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="viewer tab" role="button" tabindex="0">viewer tab</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -1362,9 +1416,9 @@ Click any keyword to see every occurrence with full context.
 
 ## Social research: why and how
 
-> 20 new
+> 21 new
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research methods" role="button" tabindex="0">research methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-depth interview" role="button" tabindex="0">in-depth interview</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content analysis" role="button" tabindex="0">content analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research topic" role="button" tabindex="0">research topic</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research methods" role="button" tabindex="0">research methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-depth interview" role="button" tabindex="0">in-depth interview</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content analysis" role="button" tabindex="0">content analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research topic" role="button" tabindex="0">research topic</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong></span></div>
 
 ## 01. Introduction to RStudio
 
@@ -1374,21 +1428,21 @@ Click any keyword to see every occurrence with full context.
 
 ## The ABC’s of a research project
 
-> 0 new<span class="glossary-module-count--recurring"> + 1 recurring</span>
+> 16 new<span class="glossary-module-count--recurring"> + 8 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="empirical social research" role="button" tabindex="0">empirical social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="normative social research" role="button" tabindex="0">normative social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content of the variable" role="button" tabindex="0">content of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="demographic variables" role="button" tabindex="0">demographic variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="contextual variables" role="button" tabindex="0">contextual variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variables and data types" role="button" tabindex="0">variables and data types</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="functions of the variable" role="button" tabindex="0">functions of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="phrasing variables" role="button" tabindex="0">phrasing variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="the three-step test" role="button" tabindex="0">the three-step test</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="the “higher or lower” test" role="button" tabindex="0">the “higher or lower” test</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="the “is there a causality” test" role="button" tabindex="0">the “is there a causality” test</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="bad variables, good variables" role="button" tabindex="0">bad variables, good variables</span></strong></span></div>
 
 ## 02. Introduction to data and scripting
 
-> 27 new
+> 26 new<span class="glossary-module-count--recurring"> + 1 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="terminologies" role="button" tabindex="0">terminologies</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey terminology" role="button" tabindex="0">survey terminology</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="questionnaire" role="button" tabindex="0">questionnaire</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="respondents" role="button" tabindex="0">respondents</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="dataset" role="button" tabindex="0">dataset</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data terminology" role="button" tabindex="0">data terminology</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="question wording" role="button" tabindex="0">question wording</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable name" role="button" tabindex="0">variable name</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable label" role="button" tabindex="0">variable label</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="value" role="button" tabindex="0">value</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="value label" role="button" tabindex="0">value label</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="response category" role="button" tabindex="0">response category</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="using r script files" role="button" tabindex="0">using r script files</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="r script file" role="button" tabindex="0">r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="outline view" role="button" tabindex="0">outline view</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="commenting" role="button" tabindex="0">commenting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="save r script file" role="button" tabindex="0">save r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="working space" role="button" tabindex="0">working space</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pasting variable names" role="button" tabindex="0">pasting variable names</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to work with codes" role="button" tabindex="0">how to work with codes</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="model code" role="button" tabindex="0">model code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="working code" role="button" tabindex="0">working code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="find this working code in the r script file" role="button" tabindex="0">find this working code in the r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="keyboard shortcuts" role="button" tabindex="0">keyboard shortcuts</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hand and finger positions" role="button" tabindex="0">hand and finger positions</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mouse shortcuts" role="button" tabindex="0">mouse shortcuts</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="terminologies" role="button" tabindex="0">terminologies</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey terminology" role="button" tabindex="0">survey terminology</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="questionnaire" role="button" tabindex="0">questionnaire</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="respondents" role="button" tabindex="0">respondents</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="dataset" role="button" tabindex="0">dataset</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data terminology" role="button" tabindex="0">data terminology</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="question wording" role="button" tabindex="0">question wording</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable name" role="button" tabindex="0">variable name</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable label" role="button" tabindex="0">variable label</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="value" role="button" tabindex="0">value</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="value label" role="button" tabindex="0">value label</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="response category" role="button" tabindex="0">response category</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="using r script files" role="button" tabindex="0">using r script files</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="r script file" role="button" tabindex="0">r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="outline view" role="button" tabindex="0">outline view</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="commenting" role="button" tabindex="0">commenting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="save r script file" role="button" tabindex="0">save r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="working space" role="button" tabindex="0">working space</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pasting variable names" role="button" tabindex="0">pasting variable names</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to work with codes" role="button" tabindex="0">how to work with codes</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="model code" role="button" tabindex="0">model code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="working code" role="button" tabindex="0">working code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="find this working code in the r script file" role="button" tabindex="0">find this working code in the r script file</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="keyboard shortcuts" role="button" tabindex="0">keyboard shortcuts</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hand and finger positions" role="button" tabindex="0">hand and finger positions</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mouse shortcuts" role="button" tabindex="0">mouse shortcuts</span></strong></span></div>
 
 ## 03. Descriptive statistics
 
-> 17 new
+> 13 new<span class="glossary-module-count--recurring"> + 1 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content of the variable" role="button" tabindex="0">content of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="demographic variables" role="button" tabindex="0">demographic variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="contextual variables" role="button" tabindex="0">contextual variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="types of the variable" role="button" tabindex="0">types of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="binary" role="button" tabindex="0">binary</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="nominal" role="button" tabindex="0">nominal</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ordinal" role="button" tabindex="0">ordinal</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="summary statistics" role="button" tabindex="0">summary statistics</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="frequency table" role="button" tabindex="0">frequency table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="bar graph" role="button" tabindex="0">bar graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="histogram graph" role="button" tabindex="0">histogram graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mean" role="button" tabindex="0">mean</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="standard deviation" role="button" tabindex="0">standard deviation</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="types of the variable" role="button" tabindex="0">types of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="binary" role="button" tabindex="0">binary</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="nominal" role="button" tabindex="0">nominal</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ordinal" role="button" tabindex="0">ordinal</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="summary statistics" role="button" tabindex="0">summary statistics</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="frequency table" role="button" tabindex="0">frequency table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="bar graph" role="button" tabindex="0">bar graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="histogram graph" role="button" tabindex="0">histogram graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="mean" role="button" tabindex="0">mean</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="standard deviation" role="button" tabindex="0">standard deviation</span></strong></span></div>
 
 ## 04. Recoding variables
 
@@ -1404,9 +1458,9 @@ Click any keyword to see every occurrence with full context.
 
 ## 06. Chi-square analysis
 
-> 8 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
+> 5 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="chi-square" role="button" tabindex="0">chi-square</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="variable" role="button" tabindex="0">variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="functions of the variable" role="button" tabindex="0">functions of the variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="statistical significance" role="button" tabindex="0">statistical significance</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="p-value" role="button" tabindex="0">p-value</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="is my p-value less than 0.05?" role="button" tabindex="0">is my p-value less than 0.05?</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="check asterisks" role="button" tabindex="0">check asterisks</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="chi-square" role="button" tabindex="0">chi-square</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="statistical significance" role="button" tabindex="0">statistical significance</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="p-value" role="button" tabindex="0">p-value</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="is my p-value less than 0.05?" role="button" tabindex="0">is my p-value less than 0.05?</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="check asterisks" role="button" tabindex="0">check asterisks</span></strong></span></div>
 
 ## 07. T-test analysis
 
