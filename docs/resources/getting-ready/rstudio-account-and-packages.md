@@ -53,7 +53,7 @@ tags:
     source(url("https://raw.githubusercontent.com/ttezcann/ssci321/refs/heads/main/docs/assets/attachments/data/0-packages-data.R")); 
     (function(f="00-install-packages.R"){if(!file.exists(f)){download.file("https://raw.githubusercontent.com/ttezcann/ssci321/refs/heads/main/docs/assets/attachments/data/00-install-packages.R",f,mode="wb");file.edit(f)}else{download.file("https://raw.githubusercontent.com/ttezcann/ssci321/refs/heads/main/docs/assets/attachments/data/00-install-packages.R",gsub(".R","-original.R",f),mode="wb");file.edit(gsub(".R","-original.R",f))}})()
     ```
-        1. On the right side of the code box below, you will see a copy sign :lucide-clipboard-copy:. Click it to copy the code.
+        1. On the right side of the code box above, you will see a copy sign :lucide-clipboard-copy:. Click it to copy the code.
         2. Paste it into RStudio console, and click enter.
             - ![Paste it into RStudio console, and click enter.](../../assets/attachments/resources/getting-ready/rstudio-install/paste-the-code.png)
 
