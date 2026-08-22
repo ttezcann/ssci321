@@ -1,6 +1,9 @@
 ---
 title: "Submitting assignment practice"
 icon: lucide/send
+knotis_content:
+  heading_numbering: false
+  heading_guides: false
 tags:
   - Resources
 ---
