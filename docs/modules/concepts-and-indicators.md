@@ -17,136 +17,187 @@ tags:
 [De Vaus, D. A. 2014. “Concepts and Indicators.” Pp. 41–54 in Surveys in social research, Social research today. Abingdon, Oxon: Routledge.](https://drive.google.com/open?id=1ggDibpICdeFnltrH056aHAIKze7wT4-j&usp=drive_fs){target="_blank" rel="noopener"}
 </div>
 
-
 <!-- slide-break -->
-### Learning outcomes { data-search-exclude }
+## Learning outcomes { data-search-exclude }
 1. Learn the difference between concepts and indicators
 2. Understand the operational definition of a concept
 3. Learn how to develop indicators
 4. Identify the principles of indicators, (1) reliability and (2) validity
 
+<!-- slide-break -->
+# [[Concept]]
+- A **concept** is a mental image summarizing collections of observations.
+- Examples of concepts in social sciences:
+    - *Religiosity*, *assimilation*, *social capital*, *alienation*, *job satisfaction*, *socio-economic status*.
+- Concepts are abstract ideas:
+    - They exist in our minds to help us organize and make sense of the world.
+    - We cannot directly see, touch, or measure a concept (e.g., we cannot directly see "religiosity" or "assimilation").
+    - Concepts do not have a single, fixed meaning. Different researchers and disciplines may define them differently.
 
 <!-- slide-break -->
-## Concepts and indicators - Definition
-- Concept:
-    - Concept is the abstract summary of a whole set of behaviors, attitudes and characteristics having something in common.
-        - Assimilation, authority, organizational culture, racism, ethnic identity, social control, social capital...
-- Indicator:
-    - Indicator is the tool to define concepts. We use always more than one indicator.
+# [[Dimension]]
+- A **dimension** is a specifiable aspect or facet of a concept.
+- Most social science concepts are complex and have more than one side:
+    - If we want to study the concept of **religiosity**, it has several distinct dimensions:
+        1. **Subjective belief:** what a person believes internally (e.g., importance of God or faith).
+        2. **Individual practice:** what a person does in private (e.g., personal prayer, reading sacred texts).
+        3. **Communal participation:** what a person does with others in public (e.g., attending religious services).
 
 <!-- slide-break -->
-## Concepts
-- Concepts do not have any fixed meaning.
-- Concepts give a basis for measuring what we want to measure
-- It is up to us to define what we mean by the concept. However, definitions mostly come from scientific literature.
+# [[Indicator]]
+- An **indicator** is an observation that we choose to consider as a reflection of a dimension.
+- It specifies *what observable behavior, attitude, or fact* we look for to measure a dimension:
+    - For **Subjective belief** ➜ *Self-perceived devotion or importance of faith*
+    - For **Individual practice** ➜ *Frequency of private prayer*
+    - For **Communal participation** ➜ *Frequency of attending religious services*
 
 <!-- slide-break -->
-## Indicators of concepts
-- Produced by the operational definition of a concept
-- Multiple-indicator measures
-    - Concept may have different dimensions
+# [[Measurement]]
+- A **questionnaire item / measurement** is the physical operation in the field (the question asked + response choices).
+- This is the actual question written on the survey form and the answer options given to the respondent.
+
+```mermaid
+flowchart TD
+    C["1. Concept<br/><b>Religiosity</b>"] 
+    --> D["2. Dimension<br/><b>Individual practice</b>"]
+    --> I["3. Indicator<br/><b>Frequency of private prayer</b>"]
+    --> Q["4. Questionnaire Item / Measurement<br/><b>'How often do you pray?'</b><br/>(1) Never ... (5) Daily"]
+```
 
 <!-- slide-break -->
-## Indicators of concepts - Sample
-- Democracy (Concept)
-    - Free elections (Indicator 1)
-    - Free vote (Indicator 2)
-    - Equal campaigning opportunities (Indicator 3)
-    - Transparency of political parties (Indicator 4)
-    - Public confidence in government (Indicator 5)
-    - Adult literacy (Indicator 6)
-    - Citizens’ engagement with politics (Indicator 7)
-    - Free electronic media (Indicator 8)
-    - Free print media (Indicator 9)
-    - Discrimination on the basis of people’s race, color or creed (Indicator 10)
-    - And 54 more indicators....
-- The Economist Democracy Index
+## From concept to survey question
 
-<!-- slide-break -->
-## Indicators of concepts – Sample (table)
-- The Economist Democracy Index
+| Level | What it means | Example for Religiosity |
+| :--- | :--- | :--- |
+| **[[Concept]]** | A mental image summarizing collections of observations | **Religiosity** |
+| **[[Dimension]]** | A specifiable aspect or facet of a concept | **Individual practice** (private religious life) |
+| **[[Indicator]]** | An observation that we choose to consider as a reflection of a variable | **Frequency of private prayer** |
+| **[[Measurement]]** | The physical operation in the field (the question asked + response choices) | **"How often do you pray privately?"**<br>(1) Never<br>(2) A couple of times a year<br>(3) Once a month<br>(4) Several times a week<br>(5) Daily |
 
 <!-- slide-break -->
 ## Why measure?
-- To delineate fine differences between people, organizations, or any other unit of analysis.
-- To provide a consistent device for measuring distinctions.
-- To produce precise estimates of the concepts.
+- **To make fine distinctions:** Differentiate between people with subtle differences in attitudes or behaviors.
+- **To have a consistent tool:** Provide a standardized way to measure distinctions so results are comparable across different people and surveys.
+- **To produce precise estimates:** Allow us to use statistics (frequencies, correlations, regressions) to test our research questions.
+
+<!-- slide-break -->
+## Single vs. multiple indicators
+
+| Feature | Single Indicator | Multiple Indicators |
+| :--- | :--- | :--- |
+| **Best for** | Simple, clear-cut facts (e.g., age, marital status, binary voting choice) | Complex, abstract concepts (e.g., religiosity, social capital, depression) |
+| **Risk of misclassification** | **High:** One misunderstood question can misclassify a person | **Low:** Multiple questions average out individual errors |
+| **Detail** | Rough, broad categories | Finer, more detailed scores |
+| **Dimensions covered** | Only one small aspect | Captures multiple dimensions of a concept |
 
 <!-- slide-break -->
 ## Why use more than one indicator?
-- Single indicators may incorrectly classify many individuals.
-- Single indicators may capture only a portion of the underlying concept or be too general.
-- Multiple indicators can make finer distinctions between individuals.
-- Multiple indicators can capture different dimensions of a concept.
+1. **Single indicators can misclassify people:** A respondent might misunderstand a single question or interpret it differently than intended.
+2. **Single indicators capture only part of the concept:** One question about church attendance misses private prayer and internal beliefs.
+3. **Multiple indicators make finer distinctions:** Combining several questions into a scale gives a wider range of scores (e.g., a scale from 1 to 5) instead of a simple yes/no.
 
 <!-- slide-break -->
-## How to clarify concepts?
-1. Obtain a range of definition of the concept
-2. Decide on a definition
-3. Delineate the dimensions of the concept
+# [[How to clarify concepts]]? (The 4-step process): From concept to survey question
+1. **[[Obtain a range of definitions]] from the literature**: Explore how previous researchers have defined the concept.
+2. **Decide on a [[nominal definition]]**: Choose or write a clear working definition for your research.
+3. **[[Delineate the dimensions]]**: Break down the concept into its core dimensions.
+4. **[[Develop indicators and survey questions]]**: Choose observable indicators and write clear questions and response choices for each dimension.
 
 <!-- slide-break -->
-## How to clarify concepts? (1) Obtain a range of definition of the concept
-- Concept: Religiosity
-- “Religiosity is defined as the extent to which a particular person believes in and venerates the founder, gods or goddesses of the relevant religion, practices the relevant teaching and participates in the relevant activities.” (Iddagoda and Opatha, 2017)
-- “Religiosity is defined as the degree to which beliefs in specific religious values and ideals are held and practiced by an individual (Safiek Mokhlis, 2008)
-- “Religiosity is defined as how far the knowledge is, how strong is the belief, how much is the practice of worship and rules and how deep is the appreciation of the religion one adheres to” (Madni, Hamid, and Rashid, 2016)
+## Step 1: [[Obtain a range of definitions]]
+
+- | Source | Definition | Core focus |
+  | :--- | :--- | :--- |
+  | **Iddagoda and Opatha (2017)** | *"The extent to which a person believes in and venerates deities, practices teachings, and participates in activities."* | Belief + Practice + Participation |
+  | **Mokhlis (2008)** | *"The degree to which beliefs in specific religious values and ideals are held and practiced by an individual."* | Internal values + Individual practice |
+  | **Madni, Hamid, and Rashid (2016)** | *"How far the knowledge is, how strong the belief is, how much is the practice of worship, and how deep the appreciation of religion is."* | Knowledge + Belief + Worship + Appreciation |
 
 <!-- slide-break -->
-## How to clarify concepts? (2) Decide on a definition
-- Concept: Religiosity
-- “Religiosity is defined as how far the knowledge is, how strong is the belief, how much is the practice of worship and rules and how deep is the appreciation of the religion one adheres to” (Madni, Hamid, and Rashid, 2016)
+## Step 2: Decide on a [[nominal definition]]
+- **Nominal definition**: A working definition assigned to a concept for the purpose of the study.
+- **Example for Religiosity**: *"Religiosity is defined as the extent to which an individual holds religious beliefs, engages in private devotional practices, and participates in communal religious activities."*
+    - This definition gives us clear guidance on what to measure: beliefs, private practices, and communal activities.
 
 <!-- slide-break -->
-## How to clarify concepts? (3) Delineate the dimensions of the concept
-- Concept: Religiosity
-- “Religiosity is defined as how far the knowledge is, how strong is the belief, how much is the practice of worship and rules and how deep is the appreciation of the religion one adheres to” (Madni, Hamid, and Rashid, 2016)
-- Subjective religiosity,
-- Individual religiosity,
-- Communal religiosity
+## Step 3: [[Delineate the dimensions]]
+
+```mermaid
+graph TD
+    Religiosity["Concept: Religiosity"]
+    
+    Dim1["Dimension 1: Subjective belief<br/>(Personal devotion and faith)"]
+    Dim2["Dimension 2: Individual practice<br/>(Private devotional behavior)"]
+    Dim3["Dimension 3: Communal participation<br/>(Public religious involvement)"]
+    
+    Religiosity --> Dim1
+    Religiosity --> Dim2
+    Religiosity --> Dim3
+```
 
 <!-- slide-break -->
-## How to develop indicators - Example 1
-- Concept: Religiosity
-- Indicator 1 (Subjective religiosity) captures one’s self-perceived devotion or piety.
-    - How religious are you?
-    - (5) very devout, (4) devout, (3) a believer, (2) not really a believer, (1) not a believer at all.
-- Indicator 2 (Individual religiosity) reflects the private religious practice without public observance, such as prayer or fasting.
-    - How often do you pray?
-    - (5) daily, (4) several times a week, (3) once a month, (2) a couple of times a year, (1) never.
-- Indicator 3 (Communal religiosity) denotes participation in collective religious activities, services, or institutions.
-    - How often do you attend church services or religious events?
-    - (5) daily, (4) several times a week, (3) once a month, (2) a couple of times a year, (1) never.
+## Step 4: [[Develop indicators and questionnaire items]]
+
+- | Dimension | Indicator | Survey Question Asked | Response Choices |
+  | :--- | :--- | :--- | :--- |
+  | **Subjective belief** | Self-perceived devotion | *"How religious are you?"* | (1) Not a believer at all<br>(2) Not really a believer<br>(3) A believer<br>(4) Devout<br>(5) Very devout |
+  | **Subjective belief** | Importance of religion | *"How important is religion in your daily life?"* | (1) Not important at all<br>(2) Slightly important<br>(3) Moderately important<br>(4) Very important<br>(5) Extremely important |
+  | **Individual practice** | Frequency of private prayer | *"How often do you pray privately?"* | (1) Never<br>(2) A couple of times a year<br>(3) Once a month<br>(4) Several times a week<br>(5) Daily |
+  | **Communal participation** | Frequency of attending services | *"How often do you attend religious services or events?"* | (1) Never<br>(2) A couple of times a year<br>(3) Once a month<br>(4) Several times a week<br>(5) Daily |
 
 <!-- slide-break -->
-## How to develop indicators - Example 2
-- Concept: Religiosity
-- Indicator 1 (Subjective religiosity) captures one’s self-perceived devotion or piety.
-    - How religious are you?
-    - (5) very devout, (4) devout, (3) a believer, (2) not really a believer, (1) not a believer at all.
-- Indicator 2 (Individual religiosity) reflects the private religious practice without public observance, such as prayer or fasting.
-    - How often do you pray?
-    - (5) daily, (4) several times a week, (3) once a month, (2) a couple of times a year, (1) never.
-- Indicator 3 (Communal religiosity) denotes participation in collective religious activities, services, or institutions.
-    - How often do you attend church services or religious events?
-    - (5) daily, (4) several times a week, (3) once a month, (2) a couple of times a year, (1) never.
+# Evaluating indicators: [[reliability]] and [[validity]]
+- Once questions are developed, we evaluate their quality using two main criteria:
+    1. **[[Reliability]] (Consistency):** Does the question give the same result on repeated occasions?
+    2. **[[Validity]] (Accuracy):** Does the question measure what it is actually supposed to measure?
+    - ```mermaid
+    flowchart LR
+        subgraph Reliability["Reliability (Consistency)"]
+            R1["Getting the same result every time"]
+        end
+        subgraph Validity["Validity (Accuracy)"]
+            V1["Measuring the true concept intended"]
+        end
+        Reliability -->|Necessary, but not enough on its own for| Validity
+    ```
 
 <!-- slide-break -->
-## Evaluating indicators
-- reliability
-    - there is a consistency in given responses
-- validity
-    - they measure the concept we think they are measuring
+## [[Reliability]] of indicators
+- A reliable measure is one where we obtain the same result on repeated occasions.
+- **Common sources of unreliability**:
+    - **Bad question wording:** Confusing or ambiguous words make respondents interpret questions differently each time.
+    - **Interviewer effects:** The gender, dress, or tone of the interviewer can change how people answer.
+    - **Guessing / No opinion:** When people have no information about a topic, they give random or inconsistent answers.
+    - **Coder errors:** Mistakes when entering or coding survey data.
 
 <!-- slide-break -->
-## Sources of unreliability
-- A reliable measurement is one where we obtain the same result on repeated occasions.
-    - A question may be unreliable due to bad wording: a person may understand the question differently on different occasions.
-    - Different interviewers can elicit different answers from the respondent: the gender, ethnic background and dress of the interviewer can influence responses.
+### Ways to check [[Reliability]]
+- **[[Test-retest]]**:
+    - Ask the same sample the same questions at two different times (e.g., 2–4 weeks apart) and check if answers correlate.
+        - People might remember their earlier answers, or their real attitude might have changed.
+- **[[Internal consistency]] (Cronbach's alpha)**:
+    - Checks whether multiple questions measuring the same concept produce consistent answers across respondents.
+        - Values of $\alpha \ge 0.70$ are considered acceptable.
+ - **[[Inter-rater reliability]]** Two different researchers code or score the same responses to see if they agree.
+    - Common for open-ended or observational data.
 
 <!-- slide-break -->
-## What does validity mean?
-- A valid measure is one which measures what it is intended to measure
-- Does the indicator measure the concept?
-- Socio-economic status
-- Education
+## [[Validity]] of indicators
+- A valid measure is one that measures what it is intended to measure.
+- **Can a measure be reliable but not valid?**
+    - **Yes:** A bathroom scale that is stuck and always adds 5 pounds is reliable (consistent every morning), but not valid (incorrect weight).
+    - Therefore, **reliability does not guarantee validity**.
+
+<!-- slide-break -->
+### Types of [[Validity]]
+- **[[Face validity]]**:
+    - Does the question make sense on the surface?
+        - Asking *"How often do you pray?"* makes intuitive sense as an indicator of individual religiosity.
+- **[[Content validity]]**:
+    - Do the questions cover all dimensions of the concept?
+        - A religiosity survey that only asks about attending church lacks content validity because it ignores private beliefs and personal prayer.
+- **[[Criterion validity]]**:
+    - Does the measure agree with an established standard or predict behavior?
+        - Higher scores on communal religiosity should predict higher participation in charity or volunteer work.
+- **[[Construct validity]]**:
+    - Does the measure relate to other concepts the way theory predicts?
+        - Religiosity scores should correlate with moral values, but remain distinct from political party affiliation.

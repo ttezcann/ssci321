@@ -111,8 +111,8 @@ tags:
     - As an occasional "Other, please specify" escape hatch attached to a closed-ended item.
 
 <!-- slide-break -->
-# Types of survey design
-- [[Survey|Surveys]] are classified by their time dimension: how many points in time data are collected from respondents.
+# [[Types of survey design]]
+- Surveys are classified by their time dimension: how many points in time data are collected from respondents.
     - On this criterion, survey research falls into (at least) two fundamental types:
         - [[Cross-sectional surveys]] and,
         - [[Longitudinal surveys]].
