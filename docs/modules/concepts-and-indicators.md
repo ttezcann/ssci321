@@ -176,7 +176,7 @@ graph TD
         - People might remember their earlier answers, or their real attitude might have changed.
 - **[[Internal consistency]] (Cronbach's alpha)**:
     - Checks whether multiple questions measuring the same concept produce consistent answers across respondents.
-        - Values of $\alpha \ge 0.70$ are considered acceptable.
+        - Values of alpha < 0.70 are considered acceptable.
  - **[[Inter-rater reliability]]** Two different researchers code or score the same responses to see if they agree.
     - Common for open-ended or observational data.
 
