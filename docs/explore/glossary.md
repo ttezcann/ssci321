@@ -27,6 +27,9 @@ Click any keyword to see every occurrence with full context.
 
 ## A
 
+<strong><span class="wikilink" data-keyword="absolute deprivation" role="button" tabindex="0">absolute deprivation</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="adjusted r-squared" role="button" tabindex="0">adjusted r-squared</span></strong> — *2 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/)
 
@@ -127,6 +130,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong> — *5 pages*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
+<strong><span class="wikilink" data-keyword="contributions of extended family members" role="button" tabindex="0">contributions of extended family members</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="copy the code" role="button" tabindex="0">copy the code</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -144,6 +150,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="cross-sectional surveys" role="button" tabindex="0">cross-sectional surveys</span></strong> — *1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
+
+<strong><span class="wikilink" data-keyword="current poverty snapshot" role="button" tabindex="0">current poverty snapshot</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="curvilinear relationship" role="button" tabindex="0">curvilinear relationship</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -179,6 +188,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="descriptive table for index variable" role="button" tabindex="0">descriptive table for index variable</span></strong> — *1 page*  
 [05. Computing variables](modules/05.-computing-variables/)
+
+<strong><span class="wikilink" data-keyword="deserving poor" role="button" tabindex="0">deserving poor</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="develop indicators and questionnaire items" role="button" tabindex="0">develop indicators and questionnaire items</span></strong> — *1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -223,6 +235,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *8 pages*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
+<strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="files tab" role="button" tabindex="0">files tab</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -256,6 +271,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="hand and finger positions" role="button" tabindex="0">hand and finger positions</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="health issues among poor children" role="button" tabindex="0">health issues among poor children</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="heteroscedasticity" role="button" tabindex="0">heteroscedasticity</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -306,6 +324,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="indicator" role="button" tabindex="0">indicator</span></strong> — *1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
+
+<strong><span class="wikilink" data-keyword="individualistic perspective" role="button" tabindex="0">individualistic perspective</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="inter-rater reliability" role="button" tabindex="0">inter-rater reliability</span></strong> — *1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -442,6 +463,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="panel design" role="button" tabindex="0">panel design</span></strong> — *1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
 
+<strong><span class="wikilink" data-keyword="parental relations" role="button" tabindex="0">parental relations</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="pasting variable names" role="button" tabindex="0">pasting variable names</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
@@ -450,6 +474,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="performance diagnostic" role="button" tabindex="0">performance diagnostic</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
+
+<strong><span class="wikilink" data-keyword="perspectives of poverty" role="button" tabindex="0">perspectives of poverty</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="phrasing variables" role="button" tabindex="0">phrasing variables</span></strong> — *1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
@@ -462,6 +489,15 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="positive correlation" role="button" tabindex="0">positive correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
+
+<strong><span class="wikilink" data-keyword="poverty" role="button" tabindex="0">poverty</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="poverty threshold" role="button" tabindex="0">poverty threshold</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="predictive modeling" role="button" tabindex="0">predictive modeling</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -523,6 +559,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="regression" role="button" tabindex="0">regression</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
+
+<strong><span class="wikilink" data-keyword="relative deprivation" role="button" tabindex="0">relative deprivation</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="reliability" role="button" tabindex="0">reliability</span></strong> — *1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -616,6 +655,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="significance of correlation" role="button" tabindex="0">significance of correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="significance of extended family members" role="button" tabindex="0">significance of extended family members</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="significant correlation" role="button" tabindex="0">significant correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
@@ -630,6 +672,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong> — *1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
+
+<strong><span class="wikilink" data-keyword="sociological perspective" role="button" tabindex="0">sociological perspective</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="software" role="button" tabindex="0">software</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -711,6 +756,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="transforming continuous variables into groups" role="button" tabindex="0">transforming continuous variables into groups</span></strong> — *1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
 
+<strong><span class="wikilink" data-keyword="two poor" role="button" tabindex="0">two poor</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="types of regression modeling based on modeling type" role="button" tabindex="0">types of regression modeling based on modeling type</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -724,6 +772,9 @@ Click any keyword to see every occurrence with full context.
 [03. Descriptive statistics](modules/03.-descriptive-statistics/)
 
 ## U
+
+<strong><span class="wikilink" data-keyword="undeserving poor" role="button" tabindex="0">undeserving poor</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="unit of analysis" role="button" tabindex="0">unit of analysis</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -768,6 +819,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="vif" role="button" tabindex="0">vif</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
+
+<strong><span class="wikilink" data-keyword="vulnerabilities of poor single-parent families" role="button" tabindex="0">vulnerabilities of poor single-parent families</span></strong> — *1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 ## W
 
@@ -1065,6 +1119,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="positive correlation" role="button" tabindex="0">positive correlation</span></strong> — *2 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong> — *2 mentions · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
@@ -1100,6 +1157,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="weak correlation" role="button" tabindex="0">weak correlation</span></strong> — *2 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
+
+<strong><span class="wikilink" data-keyword="absolute deprivation" role="button" tabindex="0">absolute deprivation</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="appointment" role="button" tabindex="0">appointment</span></strong> — *1 mention · 1 page*  
 [Office hours](resources/guidelines/office-hours/)
@@ -1155,11 +1215,17 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="contextual variables" role="button" tabindex="0">contextual variables</span></strong> — *1 mention · 1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
+<strong><span class="wikilink" data-keyword="contributions of extended family members" role="button" tabindex="0">contributions of extended family members</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="copy the code" role="button" tabindex="0">copy the code</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
 <strong><span class="wikilink" data-keyword="criterion validity" role="button" tabindex="0">criterion validity</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
+
+<strong><span class="wikilink" data-keyword="current poverty snapshot" role="button" tabindex="0">current poverty snapshot</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="data terminology" role="button" tabindex="0">data terminology</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -1172,6 +1238,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="descriptive table for index variable" role="button" tabindex="0">descriptive table for index variable</span></strong> — *1 mention · 1 page*  
 [05. Computing variables](modules/05.-computing-variables/)
+
+<strong><span class="wikilink" data-keyword="deserving poor" role="button" tabindex="0">deserving poor</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="develop indicators and questionnaire items" role="button" tabindex="0">develop indicators and questionnaire items</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -1197,6 +1266,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="face validity" role="button" tabindex="0">face validity</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
+<strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="files tab" role="button" tabindex="0">files tab</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -1220,6 +1292,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="hand and finger positions" role="button" tabindex="0">hand and finger positions</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="health issues among poor children" role="button" tabindex="0">health issues among poor children</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="heteroscedasticity" role="button" tabindex="0">heteroscedasticity</span></strong> — *1 mention · 1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -1250,6 +1325,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="in-person meeting" role="button" tabindex="0">in-person meeting</span></strong> — *1 mention · 1 page*  
 [Office hours](resources/guidelines/office-hours/)
+
+<strong><span class="wikilink" data-keyword="individualistic perspective" role="button" tabindex="0">individualistic perspective</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="inter-rater reliability" role="button" tabindex="0">inter-rater reliability</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -1308,14 +1386,26 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="panel design" role="button" tabindex="0">panel design</span></strong> — *1 mention · 1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
 
+<strong><span class="wikilink" data-keyword="parental relations" role="button" tabindex="0">parental relations</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="pasting variable names" role="button" tabindex="0">pasting variable names</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="perspectives of poverty" role="button" tabindex="0">perspectives of poverty</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="phrasing variables" role="button" tabindex="0">phrasing variables</span></strong> — *1 mention · 1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="plots tab" role="button" tabindex="0">plots tab</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
+
+<strong><span class="wikilink" data-keyword="poverty" role="button" tabindex="0">poverty</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="poverty threshold" role="button" tabindex="0">poverty threshold</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="question types" role="button" tabindex="0">question types</span></strong> — *1 mention · 1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
@@ -1346,6 +1436,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="regression" role="button" tabindex="0">regression</span></strong> — *1 mention · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
+
+<strong><span class="wikilink" data-keyword="relative deprivation" role="button" tabindex="0">relative deprivation</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="repeated cross-sectional design" role="button" tabindex="0">repeated cross-sectional design</span></strong> — *1 mention · 1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
@@ -1404,8 +1497,14 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="significance of correlation" role="button" tabindex="0">significance of correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="significance of extended family members" role="button" tabindex="0">significance of extended family members</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong> — *1 mention · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
+
+<strong><span class="wikilink" data-keyword="sociological perspective" role="button" tabindex="0">sociological perspective</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="software" role="button" tabindex="0">software</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -1455,6 +1554,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong> — *1 mention · 1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
+<strong><span class="wikilink" data-keyword="two poor" role="button" tabindex="0">two poor</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
+
 <strong><span class="wikilink" data-keyword="types of regression modeling based on modeling type" role="button" tabindex="0">types of regression modeling based on modeling type</span></strong> — *1 mention · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -1466,6 +1568,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="types of the variable" role="button" tabindex="0">types of the variable</span></strong> — *1 mention · 1 page*  
 [03. Descriptive statistics](modules/03.-descriptive-statistics/)
+
+<strong><span class="wikilink" data-keyword="undeserving poor" role="button" tabindex="0">undeserving poor</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="unit of analysis" role="button" tabindex="0">unit of analysis</span></strong> — *1 mention · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -1502,6 +1607,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="vif" role="button" tabindex="0">vif</span></strong> — *1 mention · 1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
+
+<strong><span class="wikilink" data-keyword="vulnerabilities of poor single-parent families" role="button" tabindex="0">vulnerabilities of poor single-parent families</span></strong> — *1 mention · 1 page*  
+[Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="word count" role="button" tabindex="0">word count</span></strong> — *1 mention · 1 page*  
 [Word count and writing](resources/guidelines/word-count-and-writing/)
@@ -1647,6 +1755,12 @@ Click any keyword to see every occurrence with full context.
 > 14 new<span class="glossary-module-count--recurring"> + 5 recurring</span>
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="recoding" role="button" tabindex="0">recoding</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="reasons for recoding" role="button" tabindex="0">reasons for recoding</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="merging values" role="button" tabindex="0">merging values</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="reversing values" role="button" tabindex="0">reversing values</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="transforming continuous variables into groups" role="button" tabindex="0">transforming continuous variables into groups</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="frequency table" role="button" tabindex="0">frequency table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="frequency table for recoded variable" role="button" tabindex="0">frequency table for recoded variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="ordinal" role="button" tabindex="0">ordinal</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="recoding model codes" role="button" tabindex="0">recoding model codes</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="common recoding issues and troubleshooting" role="button" tabindex="0">common recoding issues and troubleshooting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="different recoding codes for different variables" role="button" tabindex="0">different recoding codes for different variables</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="use the recoded (new) variable in analyses" role="button" tabindex="0">use the recoded (new) variable in analyses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="recoded variables are always categorical" role="button" tabindex="0">recoded variables are always categorical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="use a model code" role="button" tabindex="0">use a model code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="refresh gss data if variables are misplaced" role="button" tabindex="0">refresh gss data if variables are misplaced</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="run the recoding codes to create a new variable" role="button" tabindex="0">run the recoding codes to create a new variable</span></strong></span></div>
+
+## Sociology of poverty
+
+> 18 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="perspectives of poverty" role="button" tabindex="0">perspectives of poverty</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="individualistic perspective" role="button" tabindex="0">individualistic perspective</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sociological perspective" role="button" tabindex="0">sociological perspective</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="two poor" role="button" tabindex="0">two poor</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="deserving poor" role="button" tabindex="0">deserving poor</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="undeserving poor" role="button" tabindex="0">undeserving poor</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="poverty" role="button" tabindex="0">poverty</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="relative deprivation" role="button" tabindex="0">relative deprivation</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="absolute deprivation" role="button" tabindex="0">absolute deprivation</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="current poverty snapshot" role="button" tabindex="0">current poverty snapshot</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="poverty threshold" role="button" tabindex="0">poverty threshold</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="health issues among poor children" role="button" tabindex="0">health issues among poor children</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="parental relations" role="button" tabindex="0">parental relations</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="significance of extended family members" role="button" tabindex="0">significance of extended family members</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="contributions of extended family members" role="button" tabindex="0">contributions of extended family members</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="vulnerabilities of poor single-parent families" role="button" tabindex="0">vulnerabilities of poor single-parent families</span></strong></span></div>
 
 ## 05. Computing variables
 
