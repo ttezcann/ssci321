@@ -548,8 +548,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="r-value" role="button" tabindex="0">r-value</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
-<strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+<strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="reasons for recoding" role="button" tabindex="0">reasons for recoding</span></strong> — *1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -1143,6 +1143,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="quota sampling" role="button" tabindex="0">quota sampling</span></strong> — *2 mentions · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
+<strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *2 mentions · 2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="recoding model codes" role="button" tabindex="0">recoding model codes</span></strong> — *2 mentions · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
 
@@ -1445,9 +1448,6 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="r script file" role="button" tabindex="0">r script file</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
-
-<strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *1 mention · 1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="reasons for recoding" role="button" tabindex="0">reasons for recoding</span></strong> — *1 mention · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -1818,9 +1818,9 @@ Click any keyword to see every occurrence with full context.
 
 ## Probability sampling methods
 
-> 3 new
+> 3 new<span class="glossary-module-count--recurring"> + 1 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong></span></div>
 
 ## 07. T-test analysis
 

@@ -120,14 +120,13 @@ flowchart TD
 
 <!-- slide-break -->
 ## Step 3: [[Delineate the dimensions]]
-
 ```mermaid
 graph TD
-    Religiosity["Concept: Religiosity"]
+    Religiosity["Concept: <br> Religiosity"]
     
-    Dim1["Dimension 1: Subjective belief<br/>(Personal devotion and faith)"]
-    Dim2["Dimension 2: Individual practice<br/>(Private devotional behavior)"]
-    Dim3["Dimension 3: Communal participation<br/>(Public religious involvement)"]
+    Dim1["Dimension 1:  <br>  Subjective belief"]
+    Dim2["Dimension 2:  <br>  Individual practice"]
+    Dim3["Dimension 3:  <br>  Communal participation"]
     
     Religiosity --> Dim1
     Religiosity --> Dim2
@@ -140,9 +139,29 @@ graph TD
 - | Dimension | Indicator | Survey Question Asked | Response Choices |
   | :--- | :--- | :--- | :--- |
   | **Subjective belief** | Self-perceived devotion | *"How religious are you?"* | (1) Not a believer at all<br>(2) Not really a believer<br>(3) A believer<br>(4) Devout<br>(5) Very devout |
-  | **Subjective belief** | Importance of religion | *"How important is religion in your daily life?"* | (1) Not important at all<br>(2) Slightly important<br>(3) Moderately important<br>(4) Very important<br>(5) Extremely important |
   | **Individual practice** | Frequency of private prayer | *"How often do you pray privately?"* | (1) Never<br>(2) A couple of times a year<br>(3) Once a month<br>(4) Several times a week<br>(5) Daily |
   | **Communal participation** | Frequency of attending services | *"How often do you attend religious services or events?"* | (1) Never<br>(2) A couple of times a year<br>(3) Once a month<br>(4) Several times a week<br>(5) Daily |
+
+    - ```mermaid
+    graph TD
+        Religiosity["Concept: <br> Religiosity"]
+    
+        Dim1["Dimension 1: <br> Subjective belief"]
+        Dim2["Dimension 2: <br> Individual practice"]
+        Dim3["Dimension 3: <br> Communal participation"]
+
+        Ind1["Indicator 1: <br> Self-perceived devotion"]
+        Ind2["Indicator 2: <br> Frequency of private prayer"]
+        Ind3["Indicator 3: <br> Frequency of attending services"]
+    
+        Religiosity --> Dim1
+        Religiosity --> Dim2
+        Religiosity --> Dim3
+
+        Dim1 --> Ind1
+        Dim2 --> Ind2
+        Dim3 --> Ind3
+    ```
 
 <!-- slide-break -->
 # Evaluating indicators: [[reliability]] and [[validity]]

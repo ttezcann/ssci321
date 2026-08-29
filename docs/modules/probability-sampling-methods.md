@@ -36,7 +36,7 @@ tags:
 
 <!-- slide-break -->
 # [[Simple random sampling]]
-- In simple random sampling, each individual has an equal probability of selection, without considering any other criteria. If the sample frame is know, we can:
+- In simple random sampling, each individual has an equal probability of selection, without considering any other criteria. There is full [[randomness]]. If the sample frame is know, we can:
     - List all individual and number them consecutively, and
     - Use random numbers to select individuals.
 - There are **five steps** in selecting a simple random sample:
@@ -68,8 +68,9 @@ tags:
 
 <!-- slide-break -->
 # [[Systematic random sampling]]
-- Systematic random sampling is same as simple random sampling, except: Choosing individuals from a random starting point, and choosing every nth individual (e.g., every 3rd individual).
-    - ![A row of twelve numbered person icons labeled 1 through 12 is shown across the top. Four of these—numbers 2, 5, 8, and 11—are highlighted with boxes. Curved arrows point downward from the highlighted individuals to a smaller row below, which shows only the four selected person icons labeled 2, 5, 8, and 11, illustrating a selection or sampling of specific individuals from a larger group.](../assets/attachments/modules/probability-sampling-methods/systematic-sampling.png){width="600"}
+- Systematic random sampling is same as simple random sampling, except:
+    - Choosing individuals from a random starting point, and choosing every nth individual (e.g., every 3rd individual).
+        - ![A row of twelve numbered person icons labeled 1 through 12 is shown across the top. Four of these—numbers 2, 5, 8, and 11—are highlighted with boxes. Curved arrows point downward from the highlighted individuals to a smaller row below, which shows only the four selected person icons labeled 2, 5, 8, and 11, illustrating a selection or sampling of specific individuals from a larger group.](../assets/attachments/modules/probability-sampling-methods/systematic-sampling.png){width="600"}
 - There are **five steps** in selecting a systematic random sample:
     1. Determine population size (e.g. 100).
     2. Determine sample size required (e.g. 20). 
@@ -101,7 +102,7 @@ tags:
   | 20 | 40 | 60 | 80 | 100 |
 
 <!-- slide-break -->
-## (3) [[Stratified random sampling]]
+## [[Stratified random sampling]]
 - Starting point is to categorize population into “strata” (relevant divisions, or departments of companies for example).
 - So, the sample can be proportionately representative of each stratum.
 - Then, randomly select within each stratum as for a simple or systematic random sample.
