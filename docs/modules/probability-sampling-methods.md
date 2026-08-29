@@ -35,156 +35,80 @@ tags:
 4. Multi-stage cluster random sample
 
 <!-- slide-break -->
-## (1) Simple random sampling (1)
-- Each individual has an equal probability of selection.
-- List all individual and number them consecutively.
-- Use random numbers to select individuals.
+# [[Simple random sampling]]
+- In simple random sampling, each individual has an equal probability of selection, without considering any other criteria. If the sample frame is know, we can:
+    - List all individual and number them consecutively, and
+    - Use random numbers to select individuals.
+- There are **five steps** in selecting a simple random sample:
+    1. Obtain a complete list of individuals.
+    2. Give each individual a unique number starting at one 
+    3. Decide on the required sample size.
+    4. Select numbers for the sample size from a table of random numbers.
+    5. Select the individuals that correspond to the randomly chosen numbers.
+<!-- slide-break -->
+- | Number | Name | Number | Name | Number | Name |
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+  | 1 | Adams, H. | 18 | Iulianotti, G. | 35 | Quinn, J. |
+  | 2 | Anderson, J. | 19 | Ivono, V. | 36 | Reddan, R. |
+  | 3 | Baker, E. | **20** | **Jabornik, T.** | **37** | **Risteski, B**. |
+  | 4 | Bradsley, W. | **21** | **Jacobs, B.** | **38** | **Sawers, R.** |
+  | 5 | Bradley, P. | 22 | Kennedy, G. | 39 | Saunders, M. |
+  | 6 | Carra, A. | 23 | Kassem, S. | 40 | Tarrant, A. |
+  | 7 | Cidoni, G. | 24 | Ladd, F. | 41 | Thomas, G. |
+  | 8 | Daperis, D. | **25** | **Lamb, A.** | 42 | Uttay, E. |
+  | 9 | Devlin, B. | 26 | Mand, R. | 43 | Usher, V. |
+  | 10 | Eastside, R. | **27** | **McIlraith, W.** | 44 | Varley, E. |
+  | 11 | Einhorn, B. | 28 | Natoli, P. | 45 | Van Rooy, P. |
+  | 12 | Falconer, T. | 29 | Newman, L. | **46** | **Walters, J.** |
+  | 13 | Felton, B. | 30 | Ooj, W. | 47 | West, W. |
+  | 14 | Garratt, S. | 31 | Oppenheim, F. | 48 | Yates, R. |
+  | 15 | Gelder, H. | **32** | **Peters, P.** | 49 | Wyatt, R. |
+  | 16 | Hamilton, I. | 33 | Palmer, T. | **50** | **Zappulla, T.** |
+  | 17 | Hartnell, W. | **34** | **Quick, B.** |  |  |
 
 <!-- slide-break -->
-## (1) Simple random sampling (2)
-- There are five steps in selecting a simple random sample:
-1. Obtain a complete list of individuals.
-2. Give each individual a unique number starting at one
-3. Decide on the required sample size.
-4. Select numbers for the sample size from a table of random numbers.
-5. Select the individuals that correspond to the randomly chosen numbers.
-- Number Name
-    - 1 Adams, H.
-    - 2 Anderson, J.
-    - 3 Baker, E.
-    - 4 Bradsley, W.
-    - 5 Bradley, P.
-    - 6 Carra, A.
-    - 7 Cidoni, G.
-    - 8 Daperis, D.
-    - 9 Devlin, B.
-    - 10 Eastside, R.
-    - 11 Einhorn, B.
-    - 12 Falconer, T.
-    - 13 Felton, B.
-    - 14 Garratt, S.
-    - 15 Gelder, H.
-    - 16 Hamilton, I.
-    - 17 Hartnell, W.
-- Number Name
-    - 18 Iulianotti, G.
-    - 19 Ivono, V.
-    - 20 Jabornik, T.
-    - 21 Jacobs, B.
-    - 22 Kennedy, G.
-    - 23 Kassem, S.
-    - 24 Ladd, F.
-    - 25 Lamb, A.
-    - 26 Mand, R.
-    - 27 McIlraith, W.
-    - 28 Natoli, P.
-    - 29 Newman, L.
-    - 30 Ooi, W.
-    - 31 Oppenheim, F.
-    - 32 Peters, P.
-    - 33 Palmer, T.
-    - 34 Quick, B.
-- Number Name
-    - 35 Quinn, J.
-    - 36 Reddan, R.
-    - 37 Risteski, B.
-    - 38 Sawers, R.
-    - 39 Saunders, M.
-    - 40 Tarrant, A.
-    - 41 Thomas, G.
-    - 42 Uttay, E.
-    - 43 Usher, V.
-    - 44 Varley, E.
-    - 45 Van Rooy, P.
-    - 46 Walters, J.
-    - 47 West, W.
-    - 48 Yates, R.
-    - 49 Wyatt, R.
-    - 50 Zappulla, T.
+# [[Systematic random sampling]]
+- Systematic random sampling is same as simple random sampling, except: Choosing individuals from a random starting point, and choosing every nth individual (e.g., every 3rd individual).
+    - ![A row of twelve numbered person icons labeled 1 through 12 is shown across the top. Four of these—numbers 2, 5, 8, and 11—are highlighted with boxes. Curved arrows point downward from the highlighted individuals to a smaller row below, which shows only the four selected person icons labeled 2, 5, 8, and 11, illustrating a selection or sampling of specific individuals from a larger group.](../assets/attachments/modules/probability-sampling-methods/systematic-sampling.png){width="600"}
+- There are **five steps** in selecting a systematic random sample:
+    1. Determine population size (e.g. 100).
+    2. Determine sample size required (e.g. 20). 
+    3. Calculate sampling fraction (population / sample) (100/20=5)
+    4. Select random staring point within first 5 cases (e.g. 3).
+    5. Select every 5th case.
+<!-- slide-break -->
+- | Number  |Number   |Number   |Number   |Number   |
+  |:---:|:---:|:---:|:---:|:---:|
+  | 01 | 21 | 41 | 61 | 81 |
+  | 02 | 22 | 42 | 62 | 82 |
+  | **03** | **23** | **43** | **63** | **83** |
+  | 04 | 24 | 44 | 64 | 84 |
+  | 05 | 25 | 45 | 65 | 85 |
+  | 06 | 26 | 46 | 66 | 86 |
+  | 07 | 27 | 47 | 67 | 87 |
+  | **08** | **28** | **48** | **68** | **88** |
+  | 09 | 29 | 49 | 69 | 89 |
+  | 10 | 30 | 50 | 70 | 90 |
+  | 11 | 31 | 51 | 71 | 91 |
+  | 12 | 32 | 52 | 72 | 92 |
+  | **13** | **33** | **53** | **73** | **93** |
+  | 14 | 34 | 54 | 74 | 94 |
+  | 15 | 35 | 55 | 75 | 95 |
+  | 16 | 36 | 56 | 76 | 96 |
+  | 17 | 37 | 57 | 77 | 97 |
+  | **18** | **38** | **58** | **78** | **98** |
+  | 19 | 39 | 59 | 79 | 99 |
+  | 20 | 40 | 60 | 80 | 100 |
 
 <!-- slide-break -->
-## (2) Systematic random sampling (1)
-- Same as simple random sampling, except:
-    - Choosing individuals from a random starting point, and choosing every nth individual (e.g., every 3rd individual).
-
-<!-- slide-break -->
-## (2) Systematic random sampling (2)
-- Step 1: Determine population size
-    - 100
-- Step 2: Determine sample size required
-    - 20
-- Step 3: Calculate sampling fraction (population ÷ sample)
-    - = 100 ÷ 20
-    - = 5
-- Step 4: Select random starting point within first 5 cases
-    - e.g. 03
-- Step 5: Select every 5th case
-    - = sample of 20
-
-<!-- slide-break -->
-- Number Name
-    - 1 Adams, H.
-    - 2 Anderson, J.
-    - 3 Baker, E.
-    - 4 Bradsley, W.
-    - 5 Bradley, P.
-    - 6 Carra, A.
-    - 7 Cidoni, G.
-    - 8 Daperis, D.
-    - 9 Devlin, B.
-    - 10 Eastside, R.
-    - 11 Einhorn, B.
-    - 12 Falconer, T.
-    - 13 Felton, B.
-    - 14 Garratt, S.
-    - 15 Gelder, H.
-    - 16 Hamilton, I.
-    - 17 Hartnell, W.
-- Number Name
-    - 18 Iulianotti, G.
-    - 19 Ivono, V.
-    - 20 Jabornik, T.
-    - 21 Jacobs, B.
-    - 22 Kennedy, G.
-    - 23 Kassem, S.
-    - 24 Ladd, F.
-    - 25 Lamb, A.
-    - 26 Mand, R.
-    - 27 McIlraith, W.
-    - 28 Natoli, P.
-    - 29 Newman, L.
-    - 30 Ooi, W.
-    - 31 Oppenheim, F.
-    - 32 Peters, P.
-    - 33 Palmer, T.
-    - 34 Quick, B.
-- Number Name
-    - 35 Quinn, J.
-    - 36 Reddan, R.
-    - 37 Risteski, B.
-    - 38 Sawers, R.
-    - 39 Saunders, M.
-    - 40 Tarrant, A.
-    - 41 Thomas, G.
-    - 42 Uttay, E.
-    - 43 Usher, V.
-    - 44 Varley, E.
-    - 45 Van Rooy, P.
-    - 46 Walters, J.
-    - 47 West, W.
-    - 48 Yates, R.
-    - 49 Wyatt, R.
-    - 50 Zappulla, T.
-
-<!-- slide-break -->
-## (3) Stratified random sampling (1)
+## (3) [[Stratified random sampling]]
 - Starting point is to categorize population into “strata” (relevant divisions, or departments of companies for example).
 - So, the sample can be proportionately representative of each stratum.
 - Then, randomly select within each stratum as for a simple or systematic random sample.
 
 <!-- slide-break -->
 ### Discussion question (3)
-- !!! quote "discussion"
+- !!! quote "Discussion"
     - Imagine we are conducting research on students at a college with 10,000 students. We know their college affiliation, and this information is important for our research, as we want all colleges to be represented. What is the limitation of using simple or systematic random sampling for this research?
 - Students Population % Simple or systematic random sample
     - Humanities 1,800 18% 150
@@ -195,7 +119,7 @@ tags:
     - TOTAL 10,000 100% 1,000
 
 <!-- slide-break -->
-## (4) Multi-stage cluster sampling (1)
+## Multi-stage cluster sampling
 - The most complex, expensive, and representative sampling.
 - First, divide population into groups (clusters) of units, like states.
 - Sub-clusters (sub-groups) can then be sampled from these clusters.

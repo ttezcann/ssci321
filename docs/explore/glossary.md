@@ -133,6 +133,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="contributions of extended family members" role="button" tabindex="0">contributions of extended family members</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
+<strong><span class="wikilink" data-keyword="convenience sampling" role="button" tabindex="0">convenience sampling</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="copy the code" role="button" tabindex="0">copy the code</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -403,7 +406,7 @@ Click any keyword to see every occurrence with full context.
 [Concepts and indicators](modules/concepts-and-indicators/)
 
 <strong><span class="wikilink" data-keyword="non-probability sampling" role="button" tabindex="0">non-probability sampling</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="non-random sampling" role="button" tabindex="0">non-random sampling</span></strong> — *1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
@@ -484,8 +487,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="plots tab" role="button" tabindex="0">plots tab</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
-<strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong> — *2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="positive correlation" role="button" tabindex="0">positive correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -506,7 +509,10 @@ Click any keyword to see every occurrence with full context.
 [Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="purposive sampling" role="button" tabindex="0">purposive sampling</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 ## Q
 
@@ -525,6 +531,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="questionnaire" role="button" tabindex="0">questionnaire</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="quota sampling" role="button" tabindex="0">quota sampling</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
 ## R
 
 <strong><span class="wikilink" data-keyword="r" role="button" tabindex="0">r</span></strong> — *1 page*  
@@ -540,7 +549,7 @@ Click any keyword to see every occurrence with full context.
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
 <strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="reasons for recoding" role="button" tabindex="0">reasons for recoding</span></strong> — *1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -616,17 +625,20 @@ Click any keyword to see every occurrence with full context.
 
 ## S
 
-<strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
-<strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="save r script file" role="button" tabindex="0">save r script file</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -661,11 +673,14 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="significant correlation" role="button" tabindex="0">significant correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
-<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong> — *1 page*  
 [Graphs](resources/site-guide/graphs/)
+
+<strong><span class="wikilink" data-keyword="snowball sampling" role="button" tabindex="0">snowball sampling</span></strong> — *1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
@@ -703,6 +718,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="steps of using rstudio" role="button" tabindex="0">steps of using rstudio</span></strong> — *1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
+<strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="strength of correlation" role="button" tabindex="0">strength of correlation</span></strong> — *1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
@@ -721,8 +739,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong> — *1 page*  
 [Syllabus](resources/guidelines/syllabus/)
 
-<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 ## T
 
@@ -996,9 +1014,6 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="index variable" role="button" tabindex="0">index variable</span></strong> — *3 mentions · 2 pages*  
 [05. Computing variables](modules/05.-computing-variables/) · [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
-<strong><span class="wikilink" data-keyword="non-random sampling" role="button" tabindex="0">non-random sampling</span></strong> — *3 mentions · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
-
 <strong><span class="wikilink" data-keyword="nonsignificant correlation" role="button" tabindex="0">nonsignificant correlation</span></strong> — *3 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
@@ -1019,9 +1034,6 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="research topic" role="button" tabindex="0">research topic</span></strong> — *3 mentions · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
-
-<strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *3 mentions · 2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="significant correlation" role="button" tabindex="0">significant correlation</span></strong> — *3 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -1049,6 +1061,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="confounding variable" role="button" tabindex="0">confounding variable</span></strong> — *2 mentions · 2 pages*  
 [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
+
+<strong><span class="wikilink" data-keyword="convenience sampling" role="button" tabindex="0">convenience sampling</span></strong> — *2 mentions · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="correlation analysis" role="button" tabindex="0">correlation analysis</span></strong> — *2 mentions · 2 pages*  
 [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
@@ -1104,6 +1119,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="nominal definition" role="button" tabindex="0">nominal definition</span></strong> — *2 mentions · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
+<strong><span class="wikilink" data-keyword="non-probability sampling" role="button" tabindex="0">non-probability sampling</span></strong> — *2 mentions · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="normative social research" role="button" tabindex="0">normative social research</span></strong> — *2 mentions · 1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
@@ -1113,17 +1131,17 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong> — *2 mentions · 1 page*  
 [Graphs](resources/site-guide/graphs/)
 
-<strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong> — *2 mentions · 2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
-
 <strong><span class="wikilink" data-keyword="positive correlation" role="button" tabindex="0">positive correlation</span></strong> — *2 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
 <strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong> — *2 mentions · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
-<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 mentions · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="purposive sampling" role="button" tabindex="0">purposive sampling</span></strong> — *2 mentions · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="quota sampling" role="button" tabindex="0">quota sampling</span></strong> — *2 mentions · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="recoding model codes" role="button" tabindex="0">recoding model codes</span></strong> — *2 mentions · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -1134,11 +1152,11 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="rstudio console" role="button" tabindex="0">rstudio console</span></strong> — *2 mentions · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
-<strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *2 mentions · 2 pages*  
-[Social research: why and how](modules/social-research-why-and-how/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *2 mentions · 2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
-<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *2 mentions · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="snowball sampling" role="button" tabindex="0">snowball sampling</span></strong> — *2 mentions · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong> — *2 mentions · 2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
@@ -1149,8 +1167,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong> — *2 mentions · 2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
 
-<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *2 mentions · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *2 mentions · 2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong> — *2 mentions · 2 pages*  
 [RStudio install](resources/getting-ready/rstudio-account-and-packages/) · [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -1356,7 +1374,7 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="multivariate correlation" role="button" tabindex="0">multivariate correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
-<strong><span class="wikilink" data-keyword="non-probability sampling" role="button" tabindex="0">non-probability sampling</span></strong> — *1 mention · 1 page*  
+<strong><span class="wikilink" data-keyword="non-random sampling" role="button" tabindex="0">non-random sampling</span></strong> — *1 mention · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="nonnormal distribution" role="button" tabindex="0">nonnormal distribution</span></strong> — *1 mention · 1 page*  
@@ -1401,11 +1419,17 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="plots tab" role="button" tabindex="0">plots tab</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
+<strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong> — *1 mention · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="poverty" role="button" tabindex="0">poverty</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
 <strong><span class="wikilink" data-keyword="poverty threshold" role="button" tabindex="0">poverty threshold</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *1 mention · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="question types" role="button" tabindex="0">question types</span></strong> — *1 mention · 1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
@@ -1423,7 +1447,7 @@ Click any keyword to see every occurrence with full context.
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
 <strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong> — *1 mention · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="reasons for recoding" role="button" tabindex="0">reasons for recoding</span></strong> — *1 mention · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
@@ -1473,11 +1497,20 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="run the recoding codes to create a new variable" role="button" tabindex="0">run the recoding codes to create a new variable</span></strong> — *1 mention · 1 page*  
 [04. Recoding variables](modules/04.-recoding-variables/)
 
+<strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *1 mention · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *1 mention · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *1 mention · 1 page*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong> — *1 mention · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong> — *1 mention · 1 page*  
-[08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="save r script file" role="button" tabindex="0">save r script file</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
@@ -1517,6 +1550,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="steps of using rstudio" role="button" tabindex="0">steps of using rstudio</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
+
+<strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="strength of correlation" role="button" tabindex="0">strength of correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -1710,9 +1746,9 @@ Click any keyword to see every occurrence with full context.
 
 ## Social research: why and how
 
-> 21 new
+> 18 new
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research methods" role="button" tabindex="0">research methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-depth interview" role="button" tabindex="0">in-depth interview</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content analysis" role="button" tabindex="0">content analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research topic" role="button" tabindex="0">research topic</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research" role="button" tabindex="0">social research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research methods" role="button" tabindex="0">research methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="quantitative research" role="button" tabindex="0">quantitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="qualitative research" role="button" tabindex="0">qualitative research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-depth interview" role="button" tabindex="0">in-depth interview</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content analysis" role="button" tabindex="0">content analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="social research process" role="button" tabindex="0">social research process</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research topic" role="button" tabindex="0">research topic</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="literature review" role="button" tabindex="0">literature review</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="research question" role="button" tabindex="0">research question</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="hypotheses" role="button" tabindex="0">hypotheses</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="finding data" role="button" tabindex="0">finding data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data" role="button" tabindex="0">data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="secondary data" role="button" tabindex="0">secondary data</span></strong></span></div>
 
 ## 01. Introduction to RStudio
 
@@ -1768,11 +1804,23 @@ Click any keyword to see every occurrence with full context.
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="computing" role="button" tabindex="0">computing</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="index variable" role="button" tabindex="0">index variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="recoding" role="button" tabindex="0">recoding</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="reversing values" role="button" tabindex="0">reversing values</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="descriptive table for index variable" role="button" tabindex="0">descriptive table for index variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="common computing issues and troubleshooting" role="button" tabindex="0">common computing issues and troubleshooting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="use the new (recoded) variables in computing code" role="button" tabindex="0">use the new (recoded) variables in computing code</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="computed variables are always continuous" role="button" tabindex="0">computed variables are always continuous</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="run the computing codes to create a new variable" role="button" tabindex="0">run the computing codes to create a new variable</span></strong></span></div>
 
+## Non-probability sampling methods
+
+> 13 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="non-probability sampling" role="button" tabindex="0">non-probability sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="convenience sampling" role="button" tabindex="0">convenience sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="purposive sampling" role="button" tabindex="0">purposive sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="snowball sampling" role="button" tabindex="0">snowball sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="quota sampling" role="button" tabindex="0">quota sampling</span></strong></span></div>
+
 ## 06. Chi-square analysis
 
 > 5 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="chi-square" role="button" tabindex="0">chi-square</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="categorical" role="button" tabindex="0">categorical</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="statistical significance" role="button" tabindex="0">statistical significance</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="p-value" role="button" tabindex="0">p-value</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="is my p-value less than 0.05?" role="button" tabindex="0">is my p-value less than 0.05?</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="check asterisks" role="button" tabindex="0">check asterisks</span></strong></span></div>
+
+## Probability sampling methods
+
+> 3 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong></span></div>
 
 ## 07. T-test analysis
 
@@ -1782,9 +1830,9 @@ Click any keyword to see every occurrence with full context.
 
 ## 08. Probabilistic sampling
 
-> 9 new<span class="glossary-module-count--recurring"> + 4 recurring</span>
+> 2 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="population" role="button" tabindex="0">population</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="non-probability sampling" role="button" tabindex="0">non-probability sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="non-random sampling" role="button" tabindex="0">non-random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data creation" role="button" tabindex="0">data creation</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="descriptive table" role="button" tabindex="0">descriptive table</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="non-random sampling" role="button" tabindex="0">non-random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data creation" role="button" tabindex="0">data creation</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span></div>
 
 ## 09. Visualization
 

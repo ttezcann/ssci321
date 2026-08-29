@@ -21,8 +21,7 @@ tags:
 ## Learning outcomes { data-search-exclude }
 1. Understand what constitutes social research
 2. Learn different research methods
-3. Learn sampling
-4. Learn the steps of empirical social research
+3. Learn the steps of empirical social research
     1. Research topic,
     2. Literature review,
     3. Research question,
@@ -46,7 +45,7 @@ tags:
         - It means the procedure is public enough that others can inspect it, repeat it, and disagree about what it means.
 
 <!-- slide-break -->
-!!! info "Why we do not stop researching"
+- !!! info "Why we do not stop researching"
     - Social research starts when some part of our understanding of society is still unresolved.
         - A published study does not close a topic. Later work can:
             - find a gap,
@@ -78,30 +77,6 @@ tags:
             - **[[Ethnographic research]]**
                 - How people interact in everyday settings, rather than only how they say they interact
                 - Observation over time, often with field notes
-
-
-<!-- slide-break -->
-# [[Sampling]]
-- [[Population]]: the universe of units from which the sample is to be selected
-    - Often people, but also newspapers, posts, classrooms, or organizations
-- [[Sample]]: the segment of that population selected for investigation
-- [[Sampling]]: the process of selecting units from a population so that findings from the sample can be used to say something about the population
-- We almost always sample.
-    - Time and cost make it impossible to study every relevant case.
-- A representative sample is designed to act as a small version of the wider population.
-- Other samples are chosen because they are information-rich for the question, not because they statistically represent everyone.
-
-<!-- slide-break -->
-## How large should a sample be?
-- There is no single correct number.
-- Sample size depends on:
-    - how mixed people are on the thing you care about,
-    - what kind of analysis you plan to do,
-    - how precise you need the estimate to be,
-    - time, access, and cost.
-- A larger sample reduces some kinds of error, but a large unrepresentative sample is still a poor sample.
-- Qualitative studies often use fewer cases on purpose.
-    - The goal is depth, and stopping when new interviews stop adding new themes.
 
 <!-- slide-break -->
 # [[Social research process]]
