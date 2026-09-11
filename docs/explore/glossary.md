@@ -106,6 +106,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong> — *2 pages*  
 [Pane](resources/site-guide/pane/) · [Graphs](resources/site-guide/graphs/)
 
+<strong><span class="wikilink" data-keyword="confidence interval" role="button" tabindex="0">confidence interval</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="confounding variable" role="button" tabindex="0">confounding variable</span></strong> — *2 pages*  
 [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -238,6 +241,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong> — *8 pages*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
+<strong><span class="wikilink" data-keyword="factors affecting sampling" role="button" tabindex="0">factors affecting sampling</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
@@ -277,6 +283,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="health issues among poor children" role="button" tabindex="0">health issues among poor children</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="heterogeneity of the population" role="button" tabindex="0">heterogeneity of the population</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="heteroscedasticity" role="button" tabindex="0">heteroscedasticity</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -387,6 +396,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="mouse shortcuts" role="button" tabindex="0">mouse shortcuts</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
+
+<strong><span class="wikilink" data-keyword="multi-stage cluster random sampling" role="button" tabindex="0">multi-stage cluster random sampling</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="multicollinearity" role="button" tabindex="0">multicollinearity</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -508,8 +520,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
-<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="purposive sampling" role="button" tabindex="0">purposive sampling</span></strong> — *1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
@@ -602,6 +614,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="response category" role="button" tabindex="0">response category</span></strong> — *2 pages*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/) · [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
 
+<strong><span class="wikilink" data-keyword="response rate" role="button" tabindex="0">response rate</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="reversing values" role="button" tabindex="0">reversing values</span></strong> — *2 pages*  
 [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/)
 
@@ -628,14 +643,17 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
-<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong> — *1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="sampling error" role="button" tabindex="0">sampling error</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong> — *1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
@@ -767,6 +785,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong> — *1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="time and cost" role="button" tabindex="0">time and cost</span></strong> — *1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="tjur r-squared" role="button" tabindex="0">tjur r-squared</span></strong> — *2 pages*  
 [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
@@ -1038,8 +1059,14 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="significant correlation" role="button" tabindex="0">significant correlation</span></strong> — *3 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
+<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *3 mentions · 2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+
 <strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong> — *3 mentions · 1 page*  
 [Graphs](resources/site-guide/graphs/)
+
+<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *3 mentions · 2 pages*  
+[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="tjur r-squared" role="button" tabindex="0">tjur r-squared</span></strong> — *3 mentions · 2 pages*  
 [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
@@ -1137,6 +1164,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong> — *2 mentions · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
+<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 mentions · 2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="purposive sampling" role="button" tabindex="0">purposive sampling</span></strong> — *2 mentions · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
@@ -1155,8 +1185,8 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="rstudio console" role="button" tabindex="0">rstudio console</span></strong> — *2 mentions · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
-<strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong> — *2 mentions · 2 pages*  
-[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *2 mentions · 2 pages*  
+[Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="snowball sampling" role="button" tabindex="0">snowball sampling</span></strong> — *2 mentions · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
@@ -1167,11 +1197,11 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="standard error" role="button" tabindex="0">standard error</span></strong> — *2 mentions · 2 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/)
 
+<strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong> — *2 mentions · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong> — *2 mentions · 2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
-
-<strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong> — *2 mentions · 2 pages*  
-[Probability sampling methods](modules/probability-sampling-methods/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong> — *2 mentions · 2 pages*  
 [RStudio install](resources/getting-ready/rstudio-account-and-packages/) · [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -1217,6 +1247,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="computed variables are always continuous" role="button" tabindex="0">computed variables are always continuous</span></strong> — *1 mention · 1 page*  
 [05. Computing variables](modules/05.-computing-variables/)
+
+<strong><span class="wikilink" data-keyword="confidence interval" role="button" tabindex="0">confidence interval</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="construct validity" role="button" tabindex="0">construct validity</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -1287,6 +1320,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="face validity" role="button" tabindex="0">face validity</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
+<strong><span class="wikilink" data-keyword="factors affecting sampling" role="button" tabindex="0">factors affecting sampling</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
@@ -1316,6 +1352,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="health issues among poor children" role="button" tabindex="0">health issues among poor children</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="heterogeneity of the population" role="button" tabindex="0">heterogeneity of the population</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="heteroscedasticity" role="button" tabindex="0">heteroscedasticity</span></strong> — *1 mention · 1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
@@ -1374,6 +1413,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="mouse shortcuts" role="button" tabindex="0">mouse shortcuts</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="multi-stage cluster random sampling" role="button" tabindex="0">multi-stage cluster random sampling</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="multivariate correlation" role="button" tabindex="0">multivariate correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
@@ -1431,9 +1473,6 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="poverty threshold" role="button" tabindex="0">poverty threshold</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
-<strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *1 mention · 1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
-
 <strong><span class="wikilink" data-keyword="question types" role="button" tabindex="0">question types</span></strong> — *1 mention · 1 page*  
 [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
 
@@ -1482,6 +1521,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="respondents" role="button" tabindex="0">respondents</span></strong> — *1 mention · 1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
+<strong><span class="wikilink" data-keyword="response rate" role="button" tabindex="0">response rate</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
+
 <strong><span class="wikilink" data-keyword="rstudio" role="button" tabindex="0">rstudio</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
@@ -1500,14 +1542,14 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="sample" role="button" tabindex="0">sample</span></strong> — *1 mention · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
-<strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong> — *1 mention · 1 page*  
-[Non-probability sampling methods](modules/nonprobability-sampling-methods/)
-
 <strong><span class="wikilink" data-keyword="sampling" role="button" tabindex="0">sampling</span></strong> — *1 mention · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling concepts" role="button" tabindex="0">sampling concepts</span></strong> — *1 mention · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="sampling error" role="button" tabindex="0">sampling error</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="sampling methods" role="button" tabindex="0">sampling methods</span></strong> — *1 mention · 1 page*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/)
@@ -1551,9 +1593,6 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="steps of using rstudio" role="button" tabindex="0">steps of using rstudio</span></strong> — *1 mention · 1 page*  
 [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
 
-<strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong> — *1 mention · 1 page*  
-[Probability sampling methods](modules/probability-sampling-methods/)
-
 <strong><span class="wikilink" data-keyword="strength of correlation" role="button" tabindex="0">strength of correlation</span></strong> — *1 mention · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
 
@@ -1589,6 +1628,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="the “what about it” test" role="button" tabindex="0">the “what about it” test</span></strong> — *1 mention · 1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="time and cost" role="button" tabindex="0">time and cost</span></strong> — *1 mention · 1 page*  
+[Probability sampling methods](modules/probability-sampling-methods/)
 
 <strong><span class="wikilink" data-keyword="two poor" role="button" tabindex="0">two poor</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
@@ -1818,9 +1860,9 @@ Click any keyword to see every occurrence with full context.
 
 ## Probability sampling methods
 
-> 3 new<span class="glossary-module-count--recurring"> + 1 recurring</span>
+> 10 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
 
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong></span></div>
+<div class="glossary-module-concepts"><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="simple random sampling" role="button" tabindex="0">simple random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="systematic random sampling" role="button" tabindex="0">systematic random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="stratified random sampling" role="button" tabindex="0">stratified random sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="multi-stage cluster random sampling" role="button" tabindex="0">multi-stage cluster random sampling</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="randomness" role="button" tabindex="0">randomness</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="factors affecting sampling" role="button" tabindex="0">factors affecting sampling</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="time and cost" role="button" tabindex="0">time and cost</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="heterogeneity of the population" role="button" tabindex="0">heterogeneity of the population</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="response rate" role="button" tabindex="0">response rate</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="sample size" role="button" tabindex="0">sample size</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="sampling error" role="button" tabindex="0">sampling error</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="confidence interval" role="button" tabindex="0">confidence interval</span></strong></span></div>
 
 ## 07. T-test analysis
 
