@@ -19,7 +19,7 @@ tags:
 </div>
 
 <!-- slide-break -->
-### Learning outcomes { data-search-exclude }
+## Learning outcomes { data-search-exclude }
 1. Compare and contrast probability sampling methods
     1. Simple random sampling,
     2. Systematic random sampling,

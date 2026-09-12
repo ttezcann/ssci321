@@ -125,7 +125,7 @@ enabled = true
 default_view = "by_page"
 page_view_label = "Pages"
 exclude_paths = []
-order = []
+order = ["modules"]
 
 ## Slide mode
 [project.extra.knotis.slides]

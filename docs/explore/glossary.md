@@ -36,6 +36,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong> — *1 page*  
 [Glossary](resources/site-guide/glossary/)
 
+<strong><span class="wikilink" data-keyword="anonymity" role="button" tabindex="0">anonymity</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="appointment" role="button" tabindex="0">appointment</span></strong> — *1 page*  
 [Office hours](resources/guidelines/office-hours/)
 
@@ -109,6 +112,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="confidence interval" role="button" tabindex="0">confidence interval</span></strong> — *1 page*  
 [Probability sampling methods](modules/probability-sampling-methods/)
 
+<strong><span class="wikilink" data-keyword="confidentiality" role="button" tabindex="0">confidentiality</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="confounding variable" role="button" tabindex="0">confounding variable</span></strong> — *2 pages*  
 [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -174,6 +180,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="data creation" role="button" tabindex="0">data creation</span></strong> — *1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
+<strong><span class="wikilink" data-keyword="data security" role="button" tabindex="0">data security</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="data terminology" role="button" tabindex="0">data terminology</span></strong> — *1 page*  
 [02. Introduction to data and scripting](modules/02.-introduction-to-data-and-scripting/)
 
@@ -227,6 +236,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="empirical social research" role="button" tabindex="0">empirical social research</span></strong> — *1 page*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
 
+<strong><span class="wikilink" data-keyword="ethical research" role="button" tabindex="0">ethical research</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="ethnographic research" role="button" tabindex="0">ethnographic research</span></strong> — *1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
@@ -243,6 +255,12 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="factors affecting sampling" role="button" tabindex="0">factors affecting sampling</span></strong> — *1 page*  
 [Probability sampling methods](modules/probability-sampling-methods/)
+
+<strong><span class="wikilink" data-keyword="faking data" role="button" tabindex="0">faking data</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="faking surveys" role="button" tabindex="0">faking surveys</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="family poverty" role="button" tabindex="0">family poverty</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
@@ -339,6 +357,12 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="individualistic perspective" role="button" tabindex="0">individualistic perspective</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="informed consent" role="button" tabindex="0">informed consent</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="institutional review board" role="button" tabindex="0">institutional review board</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="inter-rater reliability" role="button" tabindex="0">inter-rater reliability</span></strong> — *1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -519,6 +543,12 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="primary data" role="button" tabindex="0">primary data</span></strong> — *2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [The ABC’s of a research project](modules/the-abcs-of-a-research-project/)
+
+<strong><span class="wikilink" data-keyword="privacy" role="button" tabindex="0">privacy</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="private funders" role="button" tabindex="0">private funders</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 pages*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
@@ -815,6 +845,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="undeserving poor" role="button" tabindex="0">undeserving poor</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
+<strong><span class="wikilink" data-keyword="unethical practices" role="button" tabindex="0">unethical practices</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="unit of analysis" role="button" tabindex="0">unit of analysis</span></strong> — *1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -858,6 +891,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="vif" role="button" tabindex="0">vif</span></strong> — *1 page*  
 [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
+
+<strong><span class="wikilink" data-keyword="voluntary participation" role="button" tabindex="0">voluntary participation</span></strong> — *1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="vulnerabilities of poor single-parent families" role="button" tabindex="0">vulnerabilities of poor single-parent families</span></strong> — *1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
@@ -1023,6 +1059,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="validity" role="button" tabindex="0">validity</span></strong> — *4 mentions · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
+<strong><span class="wikilink" data-keyword="anonymity" role="button" tabindex="0">anonymity</span></strong> — *3 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="data creation" role="button" tabindex="0">data creation</span></strong> — *3 mentions · 1 page*  
 [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
@@ -1034,6 +1073,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="index variable" role="button" tabindex="0">index variable</span></strong> — *3 mentions · 2 pages*  
 [05. Computing variables](modules/05.-computing-variables/) · [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
+
+<strong><span class="wikilink" data-keyword="institutional review board" role="button" tabindex="0">institutional review board</span></strong> — *3 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="nonsignificant correlation" role="button" tabindex="0">nonsignificant correlation</span></strong> — *3 mentions · 1 page*  
 [10. Correlation analysis](modules/10.-correlation-analysis/)
@@ -1086,6 +1128,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="concept" role="button" tabindex="0">concept</span></strong> — *2 mentions · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
+<strong><span class="wikilink" data-keyword="confidentiality" role="button" tabindex="0">confidentiality</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="confounding variable" role="button" tabindex="0">confounding variable</span></strong> — *2 mentions · 2 pages*  
 [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -1107,6 +1152,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="data analysis" role="button" tabindex="0">data analysis</span></strong> — *2 mentions · 1 page*  
 [Social research: why and how](modules/social-research-why-and-how/)
 
+<strong><span class="wikilink" data-keyword="data security" role="button" tabindex="0">data security</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="delineate the dimensions" role="button" tabindex="0">delineate the dimensions</span></strong> — *2 mentions · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
 
@@ -1115,6 +1163,15 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="dimension" role="button" tabindex="0">dimension</span></strong> — *2 mentions · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
+
+<strong><span class="wikilink" data-keyword="ethical research" role="button" tabindex="0">ethical research</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="faking data" role="button" tabindex="0">faking data</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="faking surveys" role="button" tabindex="0">faking surveys</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong> — *2 mentions · 1 page*  
 [Assignment submission](resources/guidelines/assignment-submission/)
@@ -1164,6 +1221,12 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="poverty rate" role="button" tabindex="0">poverty rate</span></strong> — *2 mentions · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
+<strong><span class="wikilink" data-keyword="privacy" role="button" tabindex="0">privacy</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
+<strong><span class="wikilink" data-keyword="private funders" role="button" tabindex="0">private funders</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="probability sampling" role="button" tabindex="0">probability sampling</span></strong> — *2 mentions · 2 pages*  
 [Non-probability sampling methods](modules/nonprobability-sampling-methods/) · [Probability sampling methods](modules/probability-sampling-methods/)
 
@@ -1202,6 +1265,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="survey" role="button" tabindex="0">survey</span></strong> — *2 mentions · 2 pages*  
 [Social research: why and how](modules/social-research-why-and-how/) · [Introduction to survey methodology](modules/introduction-to-survey-methodology/)
+
+<strong><span class="wikilink" data-keyword="voluntary participation" role="button" tabindex="0">voluntary participation</span></strong> — *2 mentions · 1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong> — *2 mentions · 2 pages*  
 [RStudio install](resources/getting-ready/rstudio-account-and-packages/) · [01. Introduction to RStudio](modules/01.-introduction-to-rstudio/)
@@ -1388,6 +1454,9 @@ Click any keyword to see every occurrence with full context.
 
 <strong><span class="wikilink" data-keyword="individualistic perspective" role="button" tabindex="0">individualistic perspective</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
+
+<strong><span class="wikilink" data-keyword="informed consent" role="button" tabindex="0">informed consent</span></strong> — *1 mention · 1 page*  
+[Research ethics](modules/research-ethics/)
 
 <strong><span class="wikilink" data-keyword="inter-rater reliability" role="button" tabindex="0">inter-rater reliability</span></strong> — *1 mention · 1 page*  
 [Concepts and indicators](modules/concepts-and-indicators/)
@@ -1650,6 +1719,9 @@ Click any keyword to see every occurrence with full context.
 <strong><span class="wikilink" data-keyword="undeserving poor" role="button" tabindex="0">undeserving poor</span></strong> — *1 mention · 1 page*  
 [Sociology of poverty](modules/sociology-of-poverty/)
 
+<strong><span class="wikilink" data-keyword="unethical practices" role="button" tabindex="0">unethical practices</span></strong> — *1 mention · 1 page*  
+[Research ethics](modules/research-ethics/)
+
 <strong><span class="wikilink" data-keyword="unit of analysis" role="button" tabindex="0">unit of analysis</span></strong> — *1 mention · 1 page*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/)
 
@@ -1701,90 +1773,6 @@ Click any keyword to see every occurrence with full context.
 </div>
 
 <div id="glossary-module" data-default-view="by_page" markdown>
-
-## RStudio install
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong></span></div>
-
-## Office hours
-
-> 4 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="office hours" role="button" tabindex="0">office hours</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="online meeting" role="button" tabindex="0">online meeting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-person meeting" role="button" tabindex="0">in-person meeting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="appointment" role="button" tabindex="0">appointment</span></strong></span></div>
-
-## Online office hours
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scheduling an online meeting" role="button" tabindex="0">scheduling an online meeting</span></strong></span></div>
-
-## In-person office hours
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scheduling an in-person meeting" role="button" tabindex="0">scheduling an in-person meeting</span></strong></span></div>
-
-## Syllabus
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong></span></div>
-
-## Structure and due dates
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="due dates" role="button" tabindex="0">due dates</span></strong></span></div>
-
-## Assignment submission
-
-> 5 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to move a file in google drive" role="button" tabindex="0">how to move a file in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to rename a file in google drive" role="button" tabindex="0">how to rename a file in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to rename a folder in google drive" role="button" tabindex="0">how to rename a folder in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to post a comment on an assignment" role="button" tabindex="0">how to post a comment on an assignment</span></strong></span></div>
-
-## Word count and writing
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="word count" role="button" tabindex="0">word count</span></strong></span></div>
-
-## How to take a screenshot
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="screenshot" role="button" tabindex="0">screenshot</span></strong></span></div>
-
-## Search
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span></div>
-
-## Pane
-
-> 2 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span></div>
-
-## Content tags
-
-> 1 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span></div>
-
-## Graphs
-
-> 4 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span></div>
-
-## Glossary
-
-> 4 new
-
-<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by page" role="button" tabindex="0">by page</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by importance" role="button" tabindex="0">by importance</span></strong></span></div>
 
 ## Social research: why and how
 
@@ -1870,6 +1858,12 @@ Click any keyword to see every occurrence with full context.
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="t-test" role="button" tabindex="0">t-test</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="statistical significance" role="button" tabindex="0">statistical significance</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="p-value" role="button" tabindex="0">p-value</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="is my p-value less than 0.05?" role="button" tabindex="0">is my p-value less than 0.05?</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="factor variable" role="button" tabindex="0">factor variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="binary" role="button" tabindex="0">binary</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="outcome variable" role="button" tabindex="0">outcome variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="continuous" role="button" tabindex="0">continuous</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="merging values" role="button" tabindex="0">merging values</span></strong></span></div>
 
+## Research ethics
+
+> 12 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="ethical research" role="button" tabindex="0">ethical research</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="voluntary participation" role="button" tabindex="0">voluntary participation</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="anonymity" role="button" tabindex="0">anonymity</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="confidentiality" role="button" tabindex="0">confidentiality</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="privacy" role="button" tabindex="0">privacy</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="data security" role="button" tabindex="0">data security</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="institutional review board" role="button" tabindex="0">institutional review board</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="informed consent" role="button" tabindex="0">informed consent</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="unethical practices" role="button" tabindex="0">unethical practices</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="faking surveys" role="button" tabindex="0">faking surveys</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="faking data" role="button" tabindex="0">faking data</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="private funders" role="button" tabindex="0">private funders</span></strong></span></div>
+
 ## 08. Probabilistic sampling
 
 > 2 new<span class="glossary-module-count--recurring"> + 3 recurring</span>
@@ -1917,5 +1911,89 @@ Click any keyword to see every occurrence with full context.
 > 11 new<span class="glossary-module-count--recurring"> + 7 recurring</span>
 
 <div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="linear regression assumptions" role="button" tabindex="0">linear regression assumptions</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="homoscedasticity" role="button" tabindex="0">homoscedasticity</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="heteroscedasticity" role="button" tabindex="0">heteroscedasticity</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="multicollinearity" role="button" tabindex="0">multicollinearity</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="linearity" role="button" tabindex="0">linearity</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="curvilinear relationship" role="button" tabindex="0">curvilinear relationship</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="normal distribution" role="button" tabindex="0">normal distribution</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="nonnormal distribution" role="button" tabindex="0">nonnormal distribution</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="10% of the cases" role="button" tabindex="0">10% of the cases</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="computing" role="button" tabindex="0">computing</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="index variable" role="button" tabindex="0">index variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="recoding" role="button" tabindex="0">recoding</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="dummy variable" role="button" tabindex="0">dummy variable</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="linear regression" role="button" tabindex="0">linear regression</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="performance diagnostic" role="button" tabindex="0">performance diagnostic</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="vif" role="button" tabindex="0">vif</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="scatterplot graph matrix" role="button" tabindex="0">scatterplot graph matrix</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="frequency table" role="button" tabindex="0">frequency table</span></strong></span></div>
+
+## RStudio install
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="wait" role="button" tabindex="0">wait</span></strong></span></div>
+
+## Office hours
+
+> 4 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="office hours" role="button" tabindex="0">office hours</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="online meeting" role="button" tabindex="0">online meeting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="in-person meeting" role="button" tabindex="0">in-person meeting</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="appointment" role="button" tabindex="0">appointment</span></strong></span></div>
+
+## Online office hours
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scheduling an online meeting" role="button" tabindex="0">scheduling an online meeting</span></strong></span></div>
+
+## In-person office hours
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="scheduling an in-person meeting" role="button" tabindex="0">scheduling an in-person meeting</span></strong></span></div>
+
+## Syllabus
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="syllabus" role="button" tabindex="0">syllabus</span></strong></span></div>
+
+## Structure and due dates
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="due dates" role="button" tabindex="0">due dates</span></strong></span></div>
+
+## Assignment submission
+
+> 5 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to submit an assignment" role="button" tabindex="0">how to submit an assignment</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to move a file in google drive" role="button" tabindex="0">how to move a file in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to rename a file in google drive" role="button" tabindex="0">how to rename a file in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to rename a folder in google drive" role="button" tabindex="0">how to rename a folder in google drive</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="how to post a comment on an assignment" role="button" tabindex="0">how to post a comment on an assignment</span></strong></span></div>
+
+## Word count and writing
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="word count" role="button" tabindex="0">word count</span></strong></span></div>
+
+## How to take a screenshot
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="screenshot" role="button" tabindex="0">screenshot</span></strong></span></div>
+
+## Search
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="search" role="button" tabindex="0">search</span></strong></span></div>
+
+## Pane
+
+> 2 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span></div>
+
+## Content tags
+
+> 1 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="content tags" role="button" tabindex="0">content tags</span></strong></span></div>
+
+## Graphs
+
+> 4 new<span class="glossary-module-count--recurring"> + 2 recurring</span>
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="graphs" role="button" tabindex="0">graphs</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="site graph" role="button" tabindex="0">site graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="page graph" role="button" tabindex="0">page graph</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="concept graph" role="button" tabindex="0">concept graph</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="pane" role="button" tabindex="0">pane</span></strong></span><span class="glossary-tag glossary-tag--recurring"><strong><span class="wikilink" data-keyword="path" role="button" tabindex="0">path</span></strong></span></div>
+
+## Glossary
+
+> 4 new
+
+<div class="glossary-module-concepts"><span class="glossary-tag"><strong><span class="wikilink" data-keyword="glossary views" role="button" tabindex="0">glossary views</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by page" role="button" tabindex="0">by page</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="alphabetical" role="button" tabindex="0">alphabetical</span></strong></span><span class="glossary-tag"><strong><span class="wikilink" data-keyword="by importance" role="button" tabindex="0">by importance</span></strong></span></div>
 
 </div>
