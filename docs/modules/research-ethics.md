@@ -124,24 +124,24 @@ tags:
     - Deleting identifying information when it is no longer needed.
 - Many secondary datasets, especially those containing sensitive information, require researchers to sign a **data use agreement** before getting access.
     - These agreements require researchers to explain exactly how the data will be stored, who will have access, and how the data will be protected.
-- !!! abstract "Example: PASS"
-    - The [PASS dataset](https://fdz.iab.de/en/data-access/scientific-use-files/) is distributed through the German Institute for Employment Research.
-    - Even though the Scientific Use File is anonymized, researchers must submit a detailed **data security plan** before their request can be approved.
-    - Researchers are required to:
-        - Specify the **building and room** where the data will be used and who can enter that space,
-            - Including the information of those who have the keys to that building and room.
-        - Store the data only on **approved and encrypted computers or servers**.
-        - Make sure that only **authorized researchers** can access the data.
-        - Not send the individual-level data by **email**.
-        - Use password-protected computers, updated security software, and secure connections.
-        - Prevent other people from seeing the screen and not take **screenshots, videos, or printouts** of the data.
-        - **Securely delete** the data, including copies and backups, when the data use agreement ends.
+        - !!! abstract "Example: PASS"
+            - The [PASS dataset](https://fdz.iab.de/en/data-access/scientific-use-files/){: target="_blank" rel="noopener" } is distributed through the German Institute for Employment Research.
+            - Even though the Scientific Use File is anonymized, researchers must submit a detailed **data security plan** before their request can be approved.
+            - Researchers are required to:
+                - Specify the **building and room** where the data will be used and who can enter that space,
+                    - Including the information of those who have the keys to that building and room.
+                - Store the data only on **approved and encrypted computers or servers**.
+                - Make sure that only **authorized researchers** can access the data.
+                - Not send the individual-level data by **email**.
+                - Use password-protected computers, updated security software, and secure connections.
+                - Prevent other people from seeing the screen and not take **screenshots, videos, or printouts** of the data.
+                - **Securely delete** the data, including copies and backups, when the data use agreement ends.
 
 ## [[Institutional review board]] (IRB)
 - [[Institutional review board|IRB]] is a review board with at least five members, one of whom comes from outside the institution.
 - These members review for approval research protocols submitted by researchers prior to the conduct of any research.
 - Every institution that receives federal funding must have an IRB.
-    - See [CSUMB IRB website](https://csumb.edu/departments/office-of-research/research-compliance/human-subjects-research-irb/).
+    - See [CSUMB IRB website](https://csumb.edu/departments/office-of-research/research-compliance/human-subjects-research-irb/){: target="_blank" rel="noopener" }.
 - They must determine whether the benefits of a study outweigh its risks, whether consent procedures have been carefully carried out, and whether any group of individuals has been unfairly treated or left out of the potential positive outcomes of a given study (Beyrer & Kass, 2002).
 - IRB approval is only the starting point; researchers must continue protecting participants through anonymity, confidentiality, and privacy.
 
@@ -159,19 +159,28 @@ tags:
         - In the SOEP survey (which is considered one of the most reputable research), one interviewer did not follow the required procedures, affecting about **6% of interviews**.
         - The research team investigated the problem, contacted participants again to verify interviews, and revised the dataset.
         - Some cases can be detected through careful checks like how SOEP team does, but not all fake or improper interviews will necessarily be discovered.
+- !!! abstract "Example: Quality and fraud control in the ENTRA survey"
+    - The [ENTRA (Recent Immigration Processes and Early Integration Trajectories in Germany) survey](https://search.gesis.org/research_data/ZA7773?doi=10.4232/1.14014){: target="_blank" rel="noopener" } team used several checks to prevent and detect **fake interviews** and participation by the **wrong person**.
+    - For interviewer-administered surveys, interviewers received adequate compensation, regular feedback, and supervision to reduce incentives for fraud.
+    - After the first wave, researchers compared respondents' **gender and date of birth** with official registration records.
+        - Online respondents were also asked whether they had completed the survey for someone else.
+    - About **8% of respondents (N = 368)** showed suspicious differences or admitted that someone else had completed the survey.
+        - Suspicious cases appeared at similar rates across survey methods, suggesting that many cases may have involved interviewing the wrong person rather than deliberate interviewer fraud.
+            - Nevertheless, **all suspicious cases were removed from the final sample**.
+
 <!-- slide-break -->
 ## [[Faking data]] 
 ### Principal investigators
 - Even among the most esteemed academic circles, there are instances where researchers manipulate or fabricate data.
 - Such malpractices can lead to the retraction of published articles, damaging both the credibility of the research and the integrity of academic scholarship.
-    - [A highly influential 2012 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3458378) claimed that people were more honest when they signed an honesty statement before reporting information rather than after.
-    - Years later, [other researchers](https://datacolada.org/98) examined the publicly available data and found patterns that did not look like real human data.
+    - [A highly influential 2012 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3458378){: target="_blank" rel="noopener" } claimed that people were more honest when they signed an honesty statement before reporting information rather than after.
+    - Years later, [other researchers](https://datacolada.org/98){: target="_blank" rel="noopener" } examined the publicly available data and found patterns that did not look like real human data.
         - Some values appeared to have been randomly generated, and parts of the dataset appeared to have been duplicated and slightly changed.
             - ![Alt text](../assets/attachments/modules/research-ethics/faking-data.png)
 <!-- slide-break -->
 ### Selectively reporting results
 - Researchers do not have to invent numbers to misrepresent a study. They can also leave out information that changes how we understand the results.
-- A [2021 study](https://www.sciencedirect.com/science/article/pii/S0147176721000468) examined whether virtual reality could improve intercultural competence.
+- A [2021 study](https://www.sciencedirect.com/science/article/pii/S0147176721000468){: target="_blank" rel="noopener" } examined whether virtual reality could improve intercultural competence.
     - The published article left out an additional group from the original study.
     - After an investigation, it was found that the lead researcher was responsible for omitting that group, and the journal retracted the article in 2023.
         - ![Alt text](../assets/attachments/modules/research-ethics/retracted.png)
@@ -179,7 +188,7 @@ tags:
 ## [[Private funders]]
 - Research is often funded by governments, universities, foundations, and private companies.
 - Private funding is not automatically unethical, but it can create a conflict of interest when a company benefits from particular research findings.
-    - [Uber paid academics and think tanks](https://www.ft.com/content/bf3d0444-e129-11e5-9217-6ae3733a2cd1) to produce research that supported favorable claims about the company, such as creating jobs, providing affordable transportation, and increasing productivity.
+    - [Uber paid academics and think tanks](https://www.ft.com/content/bf3d0444-e129-11e5-9217-6ae3733a2cd1){: target="_blank" rel="noopener" } to produce research that supported favorable claims about the company, such as creating jobs, providing affordable transportation, and increasing productivity.
         - Some of this research was then used in the media and in Uber's lobbying efforts to influence public policy.
         - The problem is especially serious when readers are not clearly told who funded the research or what relationship the researcher has with the company.
             - One report by a French academic, who asked for a €100,000 consultancy fee, was cited in a 2016 Financial Times report as evidence that Uber was a “route out of the French banlieues”, delighting Uber executives.
