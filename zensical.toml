@@ -65,7 +65,7 @@ styled_section_groups = true
 
 ## Wikilinks
 [project.extra.knotis.wikilinks]
-default = "#0197a7"
+default = "#006b75"
 slate = "#fda4af"
 
 ## Pane
@@ -110,8 +110,8 @@ nav_chips = true
 order = ["code", "output", "interpretation"]
 
 [project.extra.knotis.content_tags.colors.default]
-code = "#b45309"
-output = "#067647"
+code = "#7a3500"
+output = "#05603a"
 interpretation = "#175cd3"
 
 [project.extra.knotis.content_tags.colors.slate]
