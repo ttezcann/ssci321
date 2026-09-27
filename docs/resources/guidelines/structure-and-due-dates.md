@@ -27,7 +27,7 @@ tags:
 2. When you click on the assignment, you see more details, such as "Due" again, and
 3. "Available until" information:
     1. For this sample assignment, the due date is Sep 17 - 11:59:00pm.
-    2. After the deadline has passed, students can submit this assignment by Sep 18 - 11:59:00pm without a deduction (1 day late; no deduction).
+    2. **[[Flexibility day]]**: After the deadline has passed, students can submit this assignment by Sep 18 - 11:59:00pm without a deduction (1 day late; no deduction).
     3. If submitted by Sep 19 - 11:59:00pm, the maximum grade could be 90 (2 days late; 10% deduction).
     4. If submitted by Sep 20 - 11:59:00pm, the maximum grade could be 85 (3 days late; 15% deduction).
     5. If submitted by Sep 21 - 11:59:00pm, the maximum grade could be 80 (4 days late; 20% deduction).
