@@ -157,7 +157,6 @@ font = false
 primary = "indigo"
 accent = "indigo"
 features = [
-  "navigation.footer",
   "navigation.instant",
   "navigation.instant.progress",
   "navigation.top",
