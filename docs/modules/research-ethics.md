@@ -5,7 +5,7 @@ tags:
 ---
 # Module items  { data-search-exclude }
 ## Assignment  { data-search-exclude data-readaloud-exclude }
-- [IRB vs researchers :lucide-download:](https://docs.google.com/document/d/1YbFOW_dq45g7e0NLaYOjJqGNIsJkvfr_/edit?usp=sharing&ouid=100179871492576617561&rtpof=true&sd=true){ .md-button .md-button--primary target="_blank" rel="noopener" }
+- [IRB vs researchers :lucide-download:](https://docs.google.com/document/d/1hEA9hieRx9qY_Mw-cINXhtHDTQoxx5ft/edit?usp=sharing&ouid=100179871492576617561&rtpof=true&sd=true){ .md-button .md-button--primary target="_blank" rel="noopener" }
     - See: [[How to submit an assignment]]
 
 ## Sample assignment  { data-search-exclude data-readaloud-exclude }
