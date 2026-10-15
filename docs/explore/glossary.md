@@ -1038,16 +1038,16 @@ Click any keyword to see every occurrence with full context.
 <strong><button type="button" class="wikilink" data-keyword="outcome variable" aria-haspopup="true">outcome variable</button></strong> — *25 mentions · 8 pages*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
 
+<strong><button type="button" class="wikilink" data-keyword="descriptive table" aria-haspopup="true">descriptive table</button></strong> — *24 mentions · 4 pages*  
+[03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
+
 <strong><button type="button" class="wikilink" data-keyword="factor variable" aria-haspopup="true">factor variable</button></strong> — *24 mentions · 8 pages*  
 [The ABC’s of a research project](modules/the-abcs-of-a-research-project/) · [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [09. Visualization](modules/09.-visualization/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/) · [14. Modeling exercises](modules/14.-modeling-exercises/)
-
-<strong><button type="button" class="wikilink" data-keyword="descriptive table" aria-haspopup="true">descriptive table</button></strong> — *23 mentions · 4 pages*  
-[03. Descriptive statistics](modules/03.-descriptive-statistics/) · [04. Recoding variables](modules/04.-recoding-variables/) · [05. Computing variables](modules/05.-computing-variables/) · [08. Probabilistic sampling](modules/08.-probabilistic-sampling/)
 
 <strong><button type="button" class="wikilink" data-keyword="linear regression" aria-haspopup="true">linear regression</button></strong> — *20 mentions · 3 pages*  
 [11. Linear regression basics](modules/11.-linear-regression-basics/) · [12. Dummy variables](modules/12.-dummy-variables/) · [15. Regression assumptions and diagnostics](modules/15.-regression-assumptions-diagnostics/)
 
-<strong><button type="button" class="wikilink" data-keyword="p-value" aria-haspopup="true">p-value</button></strong> — *16 mentions · 5 pages*  
+<strong><button type="button" class="wikilink" data-keyword="p-value" aria-haspopup="true">p-value</button></strong> — *18 mentions · 5 pages*  
 [06. Chi-square analysis](modules/06.-chi-square-analysis/) · [07. T-test analysis](modules/07.-t-test-analysis/) · [10. Correlation analysis](modules/10.-correlation-analysis/) · [11. Linear regression basics](modules/11.-linear-regression-basics/) · [13. Logistic regression basics](modules/13.-logistic-regression-basics/)
 
 <strong><button type="button" class="wikilink" data-keyword="dummy variable" aria-haspopup="true">dummy variable</button></strong> — *15 mentions · 3 pages*  
