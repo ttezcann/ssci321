@@ -8,15 +8,14 @@ tags:
 - [Focus group interview :lucide-download:](https://docs.google.com/document/d/1VDKcJgV7qUDvVKiYwH_NnvYuf4Lu9qVo/edit?usp=sharing&ouid=100179871492576617561&rtpof=true&sd=true){ .md-button .md-button--primary target="_blank" rel="noopener" }
     - See: [[How to submit an assignment]]
 
-## Sample assignment  { data-search-exclude data-readaloud-exclude }
-- No sample.
+### Sample assignment  { data-search-exclude data-readaloud-exclude }
+- [Sample: Focus group interview :lucide-download:](https://docs.google.com/document/d/1CNIA0DzM1UAd5UC0wbEYS8yo01GQDnat/edit?ouid=100179871492576617561&rtpof=true&sd=true){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 ## Reading  { data-search-exclude data-readaloud-exclude }
 <div class="grid cards" markdown>
 :lucide-book-open:  
 [Lune, Howard, and Bruce L. Berg. 2017. “Focus Group Interviewing.” Pp. 94–106 in Qualitative research methods for the social sciences. Harlow: Pearson.](https://drive.google.com/open?id=1IbIBv-Z_gS98ZBrnBF2OIWn8gyHBLVmY&usp=drive_fs){target="_blank" rel="noopener"}
 </div>
-
 
 <!-- slide-break -->
 ## Learning outcomes { data-search-exclude }

@@ -8,8 +8,8 @@ tags:
 - [Face to face surveying :lucide-download:](https://docs.google.com/document/d/1ZcPxNfYU9xirNoAyqRw5-vbK-IdAc4_h/edit?usp=sharing&ouid=100179871492576617561&rtpof=true&sd=true){ .md-button .md-button--primary target="_blank" rel="noopener" }
     - See: [[How to submit an assignment]]
 
-## Sample assignment  { data-search-exclude data-readaloud-exclude }
-- No sample
+### Sample assignment  { data-search-exclude data-readaloud-exclude }
+- [Sample: Face to face surveying :lucide-download:](https://docs.google.com/document/d/1wgrzLgemDZpKtcCdwuEPJS31L6gXifyA/edit){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 ## Reading  { data-search-exclude data-readaloud-exclude }
 <div class="grid cards" markdown>
