@@ -56,13 +56,6 @@ tags:
 - **Confidentiality harm:** allowing private information or a participant's identity to become known.
 <!-- slide-break -->
 # [[Ethical research]]
-1. [[Voluntary participation]]
-2. [[Anonymity]]
-3. [[Confidentiality]]
-4. [[Privacy]]
-5. [[Data security]]
-6. [[Institutional review board]] (IRB)
-
 ## [[Voluntary participation]]
 - Any research requires revealing personal information to strangers.
 - Therefore, participation must be voluntary:
